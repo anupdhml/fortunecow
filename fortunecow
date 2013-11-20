@@ -1,0 +1,209 @@
+#!/bin/bash
+
+###################################################################################
+# A (simple) bash script that combines fortune and cowsay, with some ocd tendencies
+# Mostly useful for printing (funny) messages at terminal startup
+# By <anupdhml@gmail.com>
+#
+# Intended use: call from ~/.bashrc (runs it at terminal startup) 
+# Dependencies: cowsay, fortune
+# Available options: --disable-ocd, --default-message, 
+# and all args from fortune program (do man fortune)
+
+# README file for more details
+# Apologies for all the terrible puns here 
+####################################################################################
+
+
+# Returns a failure status when any command in the pipeline fails
+set -o pipefail
+
+# Just ignore these. cowsay installs most of these by default
+banned_cows="redditalien|kiss|head-in|mutilated|sodomized|telebears|sodomized-sheep"
+
+# with offensive fortunes (-o option), these cows are used
+# If these cow files are not present, will see errors sometimes
+offensive_cows=(head-in.cow mutilated.cow satanic.cow sodomized.cow \
+    telebears.cow sodomized-sheep.cow)
+
+# Need to enable this shell option for extended globbing
+shopt -s extglob 
+# These fortunes won't use cows
+long_fortunes="@(ascii-art|ascii-art-web|mario.arteascii|montypython|sharp-programming|sharp-perl)"
+
+# could have implemented this as assosicative arrays, but this was easier at the time. 
+# also, it's a BASH 4 feature
+thinking_cows=(bud-frogs.cow bunny.cow elephant.cow kitty.cow sheep.cow stegosaurus.cow \
+    homer.cow fry.cow hypnotoad.cow odie.cow tweety.cow garfield.cow rex.cow)
+
+
+###############################################################################
+
+
+# a way to check if an element is in a bash array. returns 0 if present, else 1.
+# http://stackoverflow.com/questions/14366390/bash-if-condition-check-if-element-is-present-in-array
+# Usage: array_contains array_name $element
+array_contains () {
+    local array="$1[@]"
+    local seeking=$2
+    local in=1
+    for element in "${!array}"; do
+        if [[ $element == $seeking ]]; then
+            in=0
+            break
+        fi
+    done
+    return $in
+}
+
+
+###############################################################################
+
+
+seek_fortune () {
+    # long output will be formatted to output of width 80 chars
+    output=$(fortune -c "$@" | fmt -80 -s)
+
+    # if -f option was provided, outuput will be null and fortune won't be shown
+    [ -z "$output" ] && exit
+
+    # BASH variables are global by default. Our cows will use just that.
+    # fortune name
+    random_fortune=$(echo "$output" | head -1)
+    random_fortune=${random_fortune:1:-1} # remove the surrounding brackets
+
+    # actual fortune
+    random_fortune_content=$(echo "$output" | tail -n +3)
+}
+
+
+get_all_cows () {
+    if [ -z $COWPATH ]; then
+        cowsay -l | tail -n +2
+    else # this handles multiple folders in cowpath 
+        IFS=':' read -ra cow_dirs <<< "$COWPATH"
+        for cow_dir in "${cow_dirs[@]}"; do
+            # banned cows are ignored here
+            [ -n "$banned_cows" ] && (ls -1 "$cow_dir" | egrep -v -i "$banned_cows") ||
+            ls "$cow_dir"
+        done
+    fi
+}
+
+
+#get_all_fortune_files () {
+    #fortune -a -f $fortune_paths 2>&1 | cut -d'%' -s -f2 | cut -c2-
+#}
+
+
+go_on_a_cow_quest () {
+    local shortlisted_cows=""
+    local script_args=("$@")
+
+    # Emulate fortune command's feature
+    (array_contains script_args "-c" ) && echo "$random_fortune" && echo %
+
+    # fortune now dictates that we find a suitable cow
+
+    # offensive fortune means offensive cow
+    (array_contains script_args "-o" ) && shortlisted_cows=("${offensive_cows[@]}") \
+        || { 
+        # if the path contains /, take the last one. just the name
+        local random_fortune_name=$(echo "$random_fortune" | awk -F/ '{print $(NF-0)}')
+
+        case $random_fortune_name in
+            futurama)
+                shortlisted_cows=(bender.cow fry.cow hypnotoad.cow leela.cow zoidberg.cow)
+                ;;
+            starwars)
+                shortlisted_cows=(luke-koala.cow vader.cow vader-koala.cow)
+                ;;
+            darkknight)
+                shortlisted_cows=(batman.cow)
+                ;;
+            calvin)
+                shortlisted_cows=(calvin.cow)
+                ;;
+            simpsons|simpsons-cbg|simpsons-homer|simpsons-ralph)
+                shortlisted_cows=(homer.cow simpsons.cow)
+                ;;
+            # chalkboard gag is for Bart Simpson. and Bart won't have any other cow, man
+            simpsons-chalkboard)
+                shortlisted_cows=(bart.cow)
+                ;;
+            # Use a selective list of cows for some of the fortunes associated with linux/computers
+            linux|linuxcookie|archlinux|debian|debian-hints|ubuntu-server-tips|vimtips|\
+                computers|perl|paul-graham|joel-on-software)
+                shortlisted_cows=(daemon.cow tux.cow apt.cow gnu.cow rms.cow suse.cow)
+                ;;
+            # No cows for fortunes in this group
+            $long_fortunes)
+                ;;
+            # for all other fortunes
+            *)
+                shortlisted_cows=( $(get_all_cows) )
+                ;;
+        esac 
+    }
+
+    # Select a random cow from the shortlisted ones
+    if [ $shortlisted_cows ]; then
+        #echo "${shortlisted_cows[@]}"
+        no_of_shortlisted_cows=${#shortlisted_cows[@]}
+        the_chosen_cow=${shortlisted_cows[RANDOM%$no_of_shortlisted_cows]}
+    fi
+}
+
+
+the_cow_divines () {
+    # Cows will speak
+    local action="say"
+
+    # But some cows only think...
+    array_contains thinking_cows "$the_chosen_cow" && action="think"
+
+    # when no cow is selected (eg: for asciiart), just show the fortune content
+    if [ -z $the_chosen_cow ]; then
+        echo "$random_fortune_content" 
+    else
+        # changing cows appearance depending on its particular emotional/physical state.
+        appearance=$(shuf -n1 -e b d g p s t w y)
+        echo "$random_fortune_content" | cow${action} -$appearance -f $the_chosen_cow -n
+    fi
+}
+
+
+default_message() {
+    distro=$(lsb_release -sd)
+    [ -z "$distro" ] && distro=Linux
+    user=$USER
+    welcome_text="Welcome to $distro, $user. Have a nice day!"
+
+    default_cow=tux
+    my_cow=$HOME/data/cows/my_cows/tux-gaiman.cow # might want to change this...
+    [ -e "$my_cow" ] && default_cow=$my_cow 
+
+    echo $welcome_text | cowsay -n -f $default_cow
+} 
+
+
+###############################################################################
+
+
+if [[ "$@" == *--default-message* ]]; then
+    default_message
+elif [[ "$@" == *--disable-ocd* ]]; then
+    fortune -a | fmt -80 -s | \
+        $(shuf -n1 -e cowsay cowthink) -n \
+        -$(shuf -n1 -e b d g p s t w y) \
+        -f $(shuf -n1 -e $(get_all_cows))
+        #-f $(shuf -n1 -e $(cowsay -l | tail -n +2))
+else
+    seek_fortune "$@" &&                               # select a fortune file
+    go_on_a_cow_quest "$@" &&                          # select a cow
+    the_cow_divines                                    # and put them together
+    # info message
+    echo $random_fortune $the_chosen_cow -$appearance $no_of_shortlisted_cows 
+fi
+
+exit 0
