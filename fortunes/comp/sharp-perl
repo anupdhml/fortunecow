@@ -1,0 +1,2334 @@
+         <rindolf>  buu: do you have a working manual of BL?
+         <rindolf>  s/working/up-to-date/
+             <buu>  It's kind of sort of up to date
+ <perlygatekeeper>  he means NO
+             <buu>  I've got some docs!
+         <rindolf>  buu: do you have a functional spec? An architecture
+                    document? An interface whitepaper? A developer's
+                    guide? A user manual? A "The BL-Book" and "BL - The
+                    Program"?
+             <buu>  rindolf: no, no, no no and no
+
+    -- Discussing the merits of documenting one's pet languages on
+    -- #perl, Freenode
+%
+     <rindolf>  sleeper: why are people obsessed with one-liners?
+     <rindolf>  It takes 3 lines - OMG what a disaster!
+       <Botje>  rindolf: newline prices went up again
+     <rindolf>  Botje: I buy my newlines in the black market
+ <dabreegster>  Botje: again? drat.
+             *  Botje reports rindolf to the newline police
+ <dabreegster>  Botje: I know about an... (underground) operation going on
+                to pirate newlines.
+     <rindolf>  Botje: I bribed a few cops in the newline police, but nice
+                try.
+ <dabreegster>  Botje: Some crazy guys are trying to free newlines from
+                patents! They want to rid the market!
+             *  cursor gets called up to serve in the newline jury
+     <rindolf>  I think we need to start a campaign to lift all
+                restrictions off newlines.
+ <dabreegster>  rindolf: La Resistance lives on!\n
+       <Botje>  I already stockpiled millions of newlines
+ <dabreegster>  Botje: We can have the one-liners destroyed by sundown
+ <dabreegster>  Not destroyed, but... TURNED INTO TWO-LINERS! Mwuhahaha!
+
+    -- The Cost of Newlines
+    -- #perl, Freenode
+%
+            *  buu Stevie[FP] with a plunger.
+            *  Stevie[FP] looks for the verb in that sentence
+       <sili>  i think you're missing a verb
+ <Stevie[FP]>  I think he's missing a brain.
+       <sili>  unless Stevie[FP] is a verb i don't know
+       <sili>  Stevie[FP]: v. see Stevie[FP]
+ <Stevie[FP]>  I am not a verb!
+       <sili>  you've been verbatized
+            *  rindolf Stevie[FP]'s Chris62vw
+ <Stevie[FP]>  verbalized?
+    <rindolf>  Stevie[FP]: verbalized is a different thing.
+    <rindolf>  Stevie[FP]: it comes from "verbal".
+ <Stevie[FP]>  Verbified.
+ <Stevie[FP]>  Verbiated.
+    <rindolf>  stefan: verbificated.
+      <Botje>  verbed.
+ <Stevie[FP]>  Verberated.
+    <rindolf>  Stevie[FP]: verberation is overrated.
+
+    -- Verbing the Verb
+    -- #perl, Freenode
+%
+ <BarnacleBob>  i hate xml.....
+    <mcrawfor>  <response to="BarnacleBob">indeed</response>
+     <rindolf>  mcrawfor: :-)
+     <rindolf>  mcrawfor++ # Nice joke
+       <Botje>  ehm. ouch.
+       <Botje>  rindolf: no!
+       <Botje>  <postincrement comment="Nice
+                joke">mcrawfor</postincrement>
+     <rindolf>  Botje: LOL.
+     <rindolf>  <postincrement comment="As you wish">Botje</postincrement>
+
+    -- Human XML
+    -- #perl, Freenode
+%
+         *  __you fart
+         *  __you say "oops"
+ <rindolf>  __you: heh
+         *  __you kick rindolf
+   <__you>  (rindolf, you're now being kicked by 435 people)
+ <squeeks>  __you need to go outside.
+  <kspath>  __you: Who owns you?
+         *  __you go outside
+         *  __you are pwned by dazjorz
+         *  __you is now known as we
+         *  we are having a useless off-topic conversation right now
+ <rindolf>  we: hahah
+         *  we we is now known as __you
+         *  __you decide this channel is now useless and decide to leave
+         *  simcop2387 is now known as we
+         *  we are not amused
+         *  __you and I are together simcop2387
+         *  squeeks is now known as _I_
+         *  _I_ need to tell __you something
+         *  __you listen
+         *  simcop2387 is now known as we
+         *  we need help
+         *  _I_ think we are getting a bit sick of the shenanigans
+ <rindolf>  I'm so making a fortune out of it.
+         *  we want to be on bash.org
+
+    -- /me (or I, you or we) is finding it amusing
+    -- #perl, Freenode
+%
+ <spyro_boy>  Oh! I fixed it :D
+ <spyro_boy>  Yay :D
+   <rindolf>  spyro_boy: congrats!
+ <spyro_boy>  Thanks for your help, everyone. :)
+   <rindolf>  spyro_boy: now you should translate this script to O'Caml,
+              Haskell, Perl 6.
+ <spyro_boy>  rindolf, huh?
+   <rindolf>  spyro_boy: Smalltalk, C, C++, Visual Basic...
+ <spyro_boy>  rindolf, translate to what?
+   <rindolf>  spyro_boy: to all these programming languages.
+ <spyro_boy>  haha
+ <spyro_boy>  rindolf, yeah.
+   <rindolf>  Because a script in perl is Not Enough<tm>.
+   <rindolf>  spyro_boy: but see the Great Computer Language Shootout.
+ <spyro_boy>  rindolf, I tried learning C,C++, and Java, but I couldn't
+              catch on.
+
+    -- Mulit-linguality
+    -- #perl, Freenode
+%
+     <rindolf>  wankit
+      <buubot>  Perl 6, unlike most people, is able to breathe in the
+                vacuum of space. In fact, anything else would damage its
+                respiratory system. Because of this, whenever it's
+                visiting Earth, it wears a respirator, which resembles a
+                kickass beard.
+     <rindolf>  Heh heh.
+     <rindolf>  Are all of buubot's wankit factoids about Perl 6?
+     <rindolf>  He should have some about Chuck Norris, too.
+      <merlyn>  fictional factoids about a partially designed, partially
+                implemented, partially wanted language. :)
+     <rindolf>  merlyn: yeah.
+      <merlyn>  Heh - those are all Chuck Norris quotes with s/Chuck/P6/
+ <dabreegster>  rindolf: It's written in Chuck Norris, right
+      <merlyn>  Chuck Norris writes code in Perl 6. Before Larry's done.
+                And it works.
+     <rindolf>  merlyn: Chuck Norris wrote Perl 6 in a day but then
+                destroyed all evidence with his bare hands, so no one will
+                know his secrets.
+
+    -- Discussing the merits of documenting one's pet languages on
+    -- #perl, Freenode
+%
+ <rindolf>  LeoNerd: I need to get a life.
+ <LeoNerd>  They can be quite useful, but they do have a crazy amount of
+            dependencies..
+ <LeoNerd>  And sometimes they can be a bit unstable - I think they're
+            still beta-testing
+
+    -- Is a Life Ready for Prime Time
+    -- #perl, Freenode
+%
+ <simcop2387>  Daveman: i use a ZED PEE EM to power my computer, its the
+               ultimate YOU PEE ES
+            *  Daveman throws an Elisabeth at Simcop
+    <rindolf>  Me catches the Elisabeth in mid-air.
+   <SubStack>  with an s, excellent choice
+    <Daveman>  :o
+    <Daveman>  Interception!
+    <rindolf>  Daveman: when my friend and I played Frisbee, we had an
+               intra-tree move.
+            *  SubStack pirates Elisabeth and seeds a torrent
+    <rindolf>  Which was unintended.
+    <rindolf>  Elisabeth: are you here?
+    <Daveman>  HAHAHAHHA
+    <Daveman>  Substack++
+            *  SubStack wins at life.
+    <rindolf>  An Elisabeth for all! And all for an Elisabeth.
+
+    -- #perl for Elisabeth
+    -- #perl, Freenode
+%
+  <Alexi5>  what is a good book for getting up to speed with perl?
+  <merlyn>  learning perl!
+  <merlyn>  intermediate perl!
+ <nachos_>  the camel is the _only book_
+ <nachos_>  :-P
+         *  merlyn bats nachos silly
+ <nachos_>  :-(
+ <rindolf>  Alexi5: there's also Beginning Perl, which is available
+            online.
+         *  f00li5h saw that coming
+ <rindolf>  You should learn Perl from "Learning Perl in 24 minutes
+            Unleashed!"
+ <f00li5h>  rindolf: ``Learning perl in 24 minutes Unleashed, in a
+            nutshell for dummies'' is the one i have
+ <rindolf>  f00li5h: that's even better.
+
+    -- Books for Learning Perl
+    -- #perl, Freenode
+%
+        <rindolf>  Are you using Firefox?
+ <Imaginativeone>  yeah...
+        <rindolf>  Interesting...
+        <rindolf>  Don't know.
+          <[x86]>  use a real browser... you know... like IE!
+                *  [x86] runs
+           <infi>  IE 3 > *
+        <rindolf>  IE 2 > *
+           <infi>  gopher!
+           <infi>  firefox can actually do gopher URLs
+        <rindolf>  GNU info!
+           <infi>  feh.
+
+    -- Vintage Hypertext
+    -- #perl, Freenode
+%
+  <rindolf>  ofer0: what's up?
+    <ofer0>  rindolf, nothing much. what's with you?
+  <rindolf>  ofer0: I restored my fonts to my nouveau-enabled X server.
+ <jagerman>  What is nouveau?
+    <ofer0>  jagerman, "new" in french ?
+ <jagerman>  Yes, I know it's a word, but what is the nouveau rindolf is
+             talking about?
+    <ofer0>  I have no idea. rindolf ?
+  <rindolf>  jagerman, ofer0: it's the free-as-in-speech Nvidia drivers.
+      <dmq>  jagerman++ (Yes i know its a word).
+ <pkrumins>  free as in freedom
+   <nainef>  free as in richard stallman?
+    <ofer0>  free as in free Microsoft Windows Vista CDs
+   <nainef>  lol
+ <pkrumins>  vista--
+    <ofer0>  "What do you mean? Windows XP isn't free?" -- My neighbour.
+   <Ikarus>  ofer0: sounds familiar
+    <ofer0>  (when telling him that I can't format his hard-drive and
+             re-install XP because he doesn't own a license)
+
+    -- Free as in what?
+    -- #perl, Freenode
+%
+  <rindolf>  This reminds me of a fun discussion I had with my co-worker.
+  <rindolf>  He had a Firefox window open with an ActiveState page and I
+             read "Perl, PHP, Python, Tcl, XSLT".
+  <rindolf>  So he said: "Heresy! C is the only language."
+  <rindolf>  So I thought for a moment and said "Intercal is the only
+             language."
+ <nanonyme>  lol
+  <rindolf>  And then "Real men write in Intercal."
+  <rindolf>  "COME FROM" anyone?
+
+    -- The Only Programming Language
+    -- #perl, Freenode
+%
+ <rindolf>  mortal5: you need to print the header.
+ <rindolf>  mortal5: print header()
+ <mortal5>  rindolf, ...I absolutely love it when my textbook leads me
+            wrong..
+ <rindolf>  mortal5: what is your textbook?
+ <mortal5>  "web wizards guide to perl and cgi"
+ <mortal5>  lol
+ <mortal5>  only the finest for the students at my university
+     <buu>  Hahaha
+     <buu>  That's awesome.
+  <cfedde>  Is this what we're teacing these days? Oh my.
+  <somian>  Blows the mind, doesn't it cfedde!
+  <cfedde>  somian: it does.
+  <cfedde>  I suppose that I'm commenting out of context. but why the mix
+            and match.
+    <f3ew>  What mind?
+  <cfedde>  yours, with this .48
+         *  somian sends in CSI las vegas to clean up
+ <rindolf>  mortal5: what is your university?
+ <mortal5>  rindolf, I'm too ashamed to tell :p
+ <rindolf>  mortal5: heh.
+ <rindolf>  mortal5: is it bad?
+ <mortal5>  rindolf, no not really, we have a fairly well known cs dept
+  <somian>  Just so long as it isn't SUNY@BUFFALO
+ <mortal5>  it's just the teacher i'm using, she's a total flake
+
+    -- Misleading Textbooks about Perl
+    -- #perl, Freenode
+%
+              *  CPAN rating: Net-DNS-Check rated 4 stars by Ævar Arnfjörð
+                 Bjarmason
+      <rindolf>  Oooh! avar has rated a module.
+    <somian^{}>  avar! WHAT ARE YOU DOING rating CPAN modules!?! Do you
+                 really think you are QUALIFIED to be doing that!?! ;-P
+              *  avar dongs somian^{}
+              *  somian^{} laughs
+         <avar>  somian^{}: I'M A PROFESSIONAL PERL PROGRAMMER
+         <avar>  I know PERL
+    <somian^{}>  But can u mAke teh weB with teh PERL!?
+ <Earle_Martin>  avar: I know DONGS
+         <avar>  Earle_Martin: SHOW ME
+         <avar>  Earle_Martin: Don't you mean DONG foo?
+              *  somian^{} has a silly grin on his face as he decends the
+                 stairs to make some fresh coffee
+         <avar>  somian^{}: I maek teh web really well with PERL
+ <Earle_Martin>  /DCC MATRIX avar
+         <avar>  Earle_Martin: IT'S SO LARGE AND HARD!
+ <Earle_Martin>  avar: You think that's milk you're drinking?
+         <f3ew>  heh]
+         <avar>  I was wondering why it was so delcicious
+         <avar>  "I can't belive it's not jizz"
+         <f3ew>  Take the red pill
+   <rfordinal_>  blue!
+ <Earle_Martin>  I know PERL: Programmer's Elite Robotic Language
+              *  avar goes back to work
+     <Shadow42>  I wonder what would happen if Neo was colorblind and took
+                 the wrong pill.
+ <Earle_Martin>  10 DO ROBOT DANCE
+ <Earle_Martin>  20 GOTO 10
+         <avar>  which doesn't involving discussing dongs in great detail,
+                 unfortunately
+ <Earle_Martin>  avar: the real world sucks
+
+    -- Perl and Dongs on Freenode's #perl
+    -- #perl, Freenode
+%
+    <polak>  mauke: so how does that "translate" into eng
+   <merlyn>  "eng"?
+    <mauke>  I spe eng goo
+  <rindolf>  mauke: I spe eng wel
+  <rindolf>  I spe goo eng
+      <sts>  just a short question. besides personal preference is there
+             any difference if you use if(! or unless(?
+  <rindolf>  sts: no.
+  <rindolf>  sts: they do the same thing.
+    <Botje>  sts: pfft. Real Men(tm) use unless(!...)
+  <rindolf>  Botje: heh.
+      <sts>  lol unless(! makes sense. thanks Botje, i'll rather use this
+             one. =D
+  <LeoNerd>  For me it's a readability thing - I express what seems more
+             likely
+  <rindolf>  Botje: File::HomeDir used to have a triple or quadruple
+             negative in one of its test files.
+    <Botje>  unless(! $str !~ /(?!foo)/)
+  <rindolf>  Botje: heh
+   <merlyn>  whoa
+   <merlyn>  unless (!) makes no sense to me at all
+    <Botje>  of course not.
+      <sts>  Botje: wow!
+    <Botje>  it's still cool to confuse people with :]
+  <LeoNerd>  Heh.. Should just use !!! in there anywa y:)
+   <merlyn>  it's 7 characters too many
+     <xand>  some people don't understand double negatives
+   <merlyn>  I don't want no complaints!
+    <Botje>  xand: you mean don't not understnad?
+  <LeoNerd>  We don't know nobody who don't want no double-negatives
+      <sts>  Botje: what does (?!foo) do?
+ <nanonyme>  lol
+     <xand>  Botje: don't not misunderstand
+    <mauke>  Botje: that always executes the block
+   <merlyn>  there's an argument that can be successfully made that "I
+             don't want no complaints" doesn't necessarily work logically
+    <Botje>  xand: oh, I don't not think I didn't not misunderstand you.
+    <Botje>  mauke: I know. it just looks cool.
+    <mauke>  and you want !($str !~ /.../)
+     <xand>  don't you?#
+   <merlyn>  so it might actually mean what people think they're meaning
+
+    -- N-uple negative on Freenode's #perl
+    -- #perl, Freenode
+%
+   <Yaakov>  LINUX < WINDOWS XP
+  <rindolf>  Yaakov: Linux ">" x Inf Windows XP
+  <rindolf>  Yaakov: DOS > Linux
+  <rindolf>  Yaakov: CTSS > Linux
+  <rindolf>  Yaakov: TOPS-10 > Linux
+  <rindolf>  Multics > Linux
+  <rindolf>  Multics > *
+  <rindolf>  I think I'll stop.
+ <Supaplex>  I think I'll /clear
+    <Kobaz>  CP/M > *
+  <rindolf>  Kobaz: heh!
+  <rindolf>  Kobaz++
+    <Kobaz>  Heh.
+    <Kobaz>  CP/M was teh sexy.
+    <Kobaz>  How much more of an OS do you really need?
+    <Kobaz>  I still have my Apple II sitting in the corner.
+
+    -- My Operating System is Better than Yours
+    -- #perl, Freenode
+%
+  <rindolf>  Mahmoud: what's up?
+  <Mahmoud>  rindolf, writing a CMS from scratch with perl.. really cool,
+             making my own template engine
+  <rindolf>  Mahmoud: why???
+  <rindolf>  Mahmoud: use TT2.
+  <rindolf>  Or whatever.
+  <Mahmoud>  rindolf, i dislike other CMS engines.. they are bloated and i
+             don't trust them
+  <rindolf>  Mahmoud: TT2 is pure perl.
+          *  Mahmoud looks for TT2
+  <rindolf>  Mahmoud: a CMS doesn't stay simple forever.
+  <rindolf>  Mahmoud: and a CMS != Templating system.
+  <Mahmoud>  rindolf, the template engine is quite simple, it's similar to
+             how SimpleMachines forum does its templates
+  <Mahmoud>  rindolf, just an external file with print 'foo'; commands
+ <amnesiac>  Mahmoud, TT2 is very powerful
+ <amnesiac>  Mahmoud, there are more templating systems, why not use any
+             ofo the existing ones?
+  <rindolf>  Mahmoud: please don't re-invent square wheels.
+  <Mahmoud>  heh..
+  <NOTevil>  oval!
+          *  amnesiac likes hexagonal wheels
+  <NOTevil>  very small octagon wheels aren't too bad.
+  <rindolf>  amnesiac: triangular wheels are the best!
+   <Shaine>  i like star shaped wheels :/
+
+    -- On the Many Types of Wheels
+    -- #perl, Freenode
+%
+  <ferret>  LeoNerd: That was one of the first blobs of Java I wrote, it's
+            allowed to be even more verbose and convoluted than Java
+            normally is. ;P
+ <rindolf>  ferret: link?
+  <ferret>  /las Cat.java
+ <rindolf>  ferret: an implementation of the UNIX "cat" program in Java??
+  <ferret>  Actually, specifically the GNU cat program, and only a subset
+            thereof.
+ <rindolf>  ferret: oh.
+ <rindolf>  ferret: how many lines did it take?
+         *  f00li5h heads off to #codegolf and tries to convince them to
+            allow java submissions
+  <ferret>  rindolf: It's mostly argument parser.
+ <rindolf>  ferret: I once implemented a parser for a subset of the Bourne
+            Shell args, in really hideous ANSI C.
+ <rindolf>  f00li5h: good luck.
+ <rindolf>  f00li5h: Java Golf...
+ <f00li5h>  yeah, for sure!
+ <rindolf>  Java Golf would be longer than a non-Golfed Perl program.
+ <f00li5h>  rindolf: this is true
+ <rindolf>  f00li5h: COBOL Golf!
+
+    -- The Pyramid of Code Golf
+    -- #perl, Freenode
+%
+        <pasteling>  "struggling intern" at 129.162.1.31 pasted "Here it
+                     is.." (220 lines, 5.7K) at http://sial.org/pbot/25279
+ <strugglingintern>  woohoo
+ <strugglingintern>  there it goes...
+          <rindolf>  strugglingintern: oh my god!
+          <rindolf>  strugglingintern: this code looks really bad.
+ <strugglingintern>  heh...
+          <rindolf>  strugglingintern: if ($records eq 0 ) - don't you
+                     want ($records == 0)?
+          <rindolf>  strugglingintern: do you have unit tests?
+          <rindolf>  strugglingintern: and you should factor it better.
+          <rindolf>  strugglingintern: and possibly use Template Toolkit
+                     or something.
+          <rindolf>  strugglingintern: and you may have some
+                     HTML-injection (or XSS) problems.
+            <Ani-_>  rindolf: and probably SQL injection problems.
+          <rindolf>  Ani-_: indeed!
+ <strugglingintern>  :-/
+            <Ani-_>  strugglingintern: really, ask them to review that
+                     code when they get back.
+ <strugglingintern>  alright
+ <strugglingintern>  I appreciate it anyway
+          <rindolf>  strugglingintern: how long have you been programming
+                     perl?
+ <strugglingintern>  hah, about 3 months
+ <strugglingintern>  This isn't all my code ;)
+ <strugglingintern>  I'll look into it
+ <strugglingintern>  Thanks guys (and gals).
+          <rindolf>  strugglingintern: you're welcome.
+ <strugglingintern>  not my choice ;)
+ <strugglingintern>  it's my 3rd week here :)
+          <rindolf>  Amazing how much more experienced programmers can
+                     tell a code is bad from a quick glance.
+          <rindolf>  It's a bit scary.
+            <Ani-_>  nothing amazing about it. It's called skill. :)
+           <The_SB>  yeh even I can tell it by a look
+            <ology>  It's not scary or amazing at all.
+            <ology>  It is called experience!
+            <Ani-_>  rindolf: what do you find scary?
+            <Ani-_>  rindolf: that experienced programmers can tell it? Or
+                     the code itself?
+            <Ani-_>  I would disagree on the first one but agree on the
+                     later! :)
+          <rindolf>  Ani-_: no, that I'm so experienced.
+          <rindolf>  Ani-_: I hope I don't sound out as a snob.
+            <ology>  narcissism is fun
+          <rindolf>  I should get a life.
+          <rindolf>  Get a girlfriend, go to movies.
+          <rindolf>  Instead all I do is write Perl.
+          <rindolf>  And chat about writing Perl.
+           <Ikarus>  a life, tried that, didn't mix with me
+
+    -- Scary Perl Expertise
+    -- #perl, Freenode
+%
+ <rindolf>  Let me wikipedia it.
+ <f00li5h>  so now wikipedia is a verb?
+ <rindolf>  f00li5h: it's gonna enter the OED.
+ <rindolf>  f00li5h: in English every verb can be nounified and every noun
+            can be verbed.
+ <rindolf>  f00li5h: google is now a verb too.
+ <f00li5h>  rindolf: q{ just one second and i'll "computer" it up for
+            you"}
+ <rindolf>  f00li5h: LOL.
+ <rindolf>  f00li5h++
+         *  rindolf f00li5hes jql
+ <rindolf>  I'm rindolfed
+         *  f00li5h finds it odd that irssi hilighted half of that word
+ <rindolf>  f00li5h: it's much harder to do it in Hebrew.
+     <jql>  computer is from the verb compute already
+ <rindolf>  jql: there's computerise though.
+ <f00li5h>  jql: but to computer something is different than computing it
+ <f00li5h>  COMPUTIFY!
+ <rindolf>  jql: I once thought that the study of Objectivity is
+            Objectivism.
+ <f00li5h>  "configurated"
+     <jql>  you shouldn't noun up a verb that's been nouned already
+ <rindolf>  And the study of Objectivism is Objectivistalism.
+  <Caelum>  heh
+ <rindolf>  And that study of that is Objectvisitalistalism.
+ <rindolf>  And to infinity it's Objectivist-elementalism!
+ <f00li5h>  eval: object .((ism)x100)
+  <buubot>  f00li5h:
+            objectismismismismismismismismismismismismismismismismismismismism
+            ismismismismismismismismismismismismismismismismismismismismismism
+            ismismismismismismismismismismismismismismismismismismismi
+ <rindolf>  With apologies to the 4 people who ever spoke Latin correctly.
+     <jql>  I can't help but read that as smi smi smi
+  <Caelum>  me too
+ <rindolf>  jql: reminds me of Peter Pan.
+
+    -- (Human) Language Fun on Freenode's #perl
+    -- #perl, Freenode
+%
+       <dkr>  I use nedit, the only app with a quadruple-click feature
+    <naquad>  wtf is quadruple-click??? %-/
+       <dkr>  double-click selects a word, triple-click selects a line,
+              quadruple-click select the whole document. heh :)
+ <Patterner>  quintuple-click selects the whole harddisk
+   <rindolf>  hexuple-click selects the entire Intranet.
+   <rindolf>  And septapable-click selects the entire Internet
+ <Patterner>  How many for the multiverse?
+    <naquad>  people, who uses what editor?
+       <arw>  octaple click selects the known universe and nonaple the
+              rest too.
+   <rindolf>  arw: how long does it takes these clicks to run?
+   <rindolf>  I think it's super-exponential complexity.
+       <arw>  rindolf: no matter, the universe is finite :)
+       <arw>  rindolf: only problem is, the information about your
+              clicking will never reach the entire universe as it expands
+              ;)
+
+    -- How many clicks must a one man do, before he selects what he wants?
+    -- #perl, Freenode
+%
+           *  reflexive huzzahs. His Perl books just arrived.
+   <apeiron>  reflexive, Which?
+ <reflexive>  apeiron: IP and PBP. A couple others are still in transit.
+   <apeiron>  reflexive, Nice. :)
+ <reflexive>  :)
+   <rindolf>  reflexive: what is IP?
+ <reflexive>  Intermediate Perl.
+   <rindolf>  reflexive: oh, OK.
+   <rindolf>  Intellectual Perl.
+   <rindolf>  Internet Perl.
+    <kojiro>  Invasive Perl
+    <kspath>  Idiot Perl
+   <rindolf>  Interactive Perl.
+   <rindolf>  I, Perl.
+    <kojiro>  Implementing Pies
+    <kojiro>  mmm, pie
+   <rindolf>  Improbably Perl
+    <kspath>  Ignoble Perl
+    <kojiro>  Probably Inverted
+   <rindolf>  kojiro: :-)
+    <kspath>  Improper Perl
+ <reflexive>  Insidious Perl?
+       <mst>  ALL PERL IS IMPROPER
+    <kojiro>  API?
+   <rindolf>  In Soviet Russia all improper is Perl.
+   <rindolf>  APII.
+      <qrck>  impudent perl
+    <kojiro>  no, you never count words like "is"
+    <kspath>  Incoherent Perl
+    <kojiro>  ALL PERL IS INCOHERENT
+ <reflexive>  So true.
+
+    -- The Meaning of "I".
+    -- #perl, Freenode
+%
+        <dkr>  which is that ACME:: filter that obfusctaes all your source
+               into whitespace? :)
+  <preaction>  Acme::Bleach
+    <rindolf>  dkr: as preaction said it is Acme::Bleach.
+        <dkr>  moderation -1 Redundant
+            *  dkr smirks
+        <nws>  get out you slashdotter
+        <nws>  jk
+        <dkr>  I got moderated overrated yesterday. I felt so loved
+        <dkr>  GumbyGumby: how often do you post to /.?
+ <GumbyGumby>  dkr: do it to system() a ssh command. Is doing that often.
+    <rindolf>  GumbyBRAIN: how often do you post dkr to Slashdot?
+ <GumbyBRAIN>  do it to list.
+
+    -- Got the Slashdot?
+    -- #perl, Freenode
+%
+ <WebDragon>  y'all should spell it in uppercase it being an acronym and
+              all
+  <reaction>  Yes, but we're *lazy*!
+           *  WebDragon *so* noticed ;)
+       <dkr>  WebDragon: people that use CamelCase have no right to
+              criticize about capitalization. :)
+ <WebDragon>  dkr: I hate underscores
+           *  dkr contemplates a source code filter that does lets you use
+              spaces in var names by switch them to underscores at compile
+              time
+ <preaction>  black magic
+       <mst>  dkr: source filters are evil.
+       <mst>  dkr: in a bad way.
+       <mst>  dkr: hacking the compiler is much more fun, and evil in a
+              useful way :)
+       <mst>  WebDragon: recommended perl style is $var_name
+       <mst>  WebDragon: it's also more readable than $varName or $VarName
+       <mst>  WebDragon: I'd recommend trying it for at least a month
+       <mst>  WebDragon: also note that it'll make life easier because
+              you'll be consistent with the rest of perl code
+ <WebDragon>  mst: I was thinking more along the lines of filenames and
+              irc nicknames than perl variables
+       <mst>  WebDragon: ah. fair enough :)
+           *  WebDragon doesn't use camelcase for perlvars
+       <mst>  WebDragon: then I shall cease complaining :)
+      <avar>  ${"Insert a descriptive essay about the variable here"}
+ <WebDragon>  rofl
+   <rindolf>  avar: that won't work with 'use strict 'refs''
+ <WebDragon>  avar: I've seen things like that in RL and had recurring
+              nightmares about them when I saw similar and sometimes worse
+              things on thedailywtf.com
+       <mst>  rindolf: ${main::}{"Insert a descriptive essay about the
+              variable here"} would :)
+       <mst>  rindolf: or you could just use %_ :)
+       <dkr>  my boss still occasionally uses vars like $x. still trying
+              to beat that behavior out of him
+           *  WebDragon only uses x|y|z for cartesian coordinate math
+ <WebDragon>  which, since I hardly ever do any of that, means the obvious
+
+    -- What's in a variable name?
+    -- #perl, Freenode
+%
+   <mofino>  watched the Fountain
+   <mofino>  pretty cool'
+ <q[ender]>  yep
+     <sili>  what?
+     <sili>  you think The Fountain was cool?
+     <sili>  it was pretty artsy.
+     <sili>  I don't understand the necessity of repeating that same scene
+             50k times, though.
+   <mofino>  then you didn't get the movie
+  <rindolf>  sili: if you repeat a scene 50k times, then the movie will
+             have less entropy and will compress better.
+
+    -- Watched the fountain on Freenode's #perlcafe
+    -- #perl, Freenode
+%
+  <convivial>  high-rez, but I don't know enough to help you because I am
+               a newbie to perl programming and although I am in deep luv
+               with perl and planning on marrying perl, I still have a lot
+               to learn.
+    <rindolf>  convivial: you can only marry Perl if polygamy is legal
+               where you live.
+    <rindolf>  convivial: because Perl and I are already married. :-D
+  <convivial>  why is that? i'm single :)
+    <rindolf>  convivial: but Perl isn't.
+  <convivial>  oh crap !
+  <convivial>  all the good languages are already married :(
+    <rindolf>  convivial: COBOL is still single.
+    <rindolf>  convivial: but I heard she's a total bitch.
+  <convivial>  ewwwwwwwwwwww, so is JCL and no one is knocking down either
+               of their doors
+  <convivial>  rindolf, janet reno is single!
+    <rindolf>  convivial: what kind of programming language is "Janet
+               Reno"?
+  <convivial>  :)
+  <convivial>  she is a person
+    <rindolf>  convivial: I'm not interested in people, I'm only
+               interested in programming languages.
+ <shaldannon>  rindolf: you should try Ada
+    <rindolf>  shaldannon: Ada 95?
+ <shaldannon>  yeah
+ <shaldannon>  the syntax of Pascal, the power of Basic and the
+               friendliness of Java
+
+    -- Commiting yourself to a programming language on Freenode's #perl.
+    -- #perl, Freenode
+%
+            *  shaldannon beats iank over the head with an encyclopedia
+    <rindolf>  shaldannon: all volumes of an encyclopedia?
+        <dwu>  rindolf: ha
+ <shaldannon>  rindolf: every last one of 'em
+    <rindolf>  shaldannon: or perhaps a printout of the Wikipedia?
+       <iank>  rindolf: the whole bookcase
+    <rindolf>  shaldannon: which Encyclopedia?
+       <iank>  rindolf: naw, just get the DVD :)
+ <shaldannon>  rindolf: I couldn't lift that
+ <shaldannon>  rindolf: Britanica
+       <iank>  You could lift the DVD!
+        <dwu>  shaldannon: Start. Working. Out.
+ <shaldannon>  dwu: oh?
+        <dwu>  shaldannon: Dude, being able to lift the Britannica is hot.
+            *  iank -> the internet
+ <shaldannon>  :-}
+        <dwu>  Seriously.
+        <dwu>  "I can hold the accepted knowledge of a percentage of the
+               human race in my arms!" "Oh, god, that is so sexy."
+ <shaldannon>  hahahaha
+        <dwu>  Seriously. Smart is hot. Smart and funny... well.
+            *  shaldannon is hillarious ;)
+        <dwu>  Uhm. kay.
+    <rindolf>  If you start reading the wikipedia lexicographically, will
+               you ever finish at the rate articles are added there?
+  <tarrybone>  rindolf: yes (citation needed)
+        <dwu>  ha
+ <shaldannon>  lol @ tarrybone
+        <dwu>  tarrybone++
+    <rindolf>  This reminds me of James Bond 1, where the girl there read
+               an encyclopedia, instead of going to school.
+     <yrlnry>  Does anyone near Philadelphia want to come to my house and
+               take away my 1920 Britannica?
+ <shaldannon>  rindolf: hey...when I was in elementary school, I used to
+               read the World Book encyclopedia instead of doing my
+               homework
+
+    -- Commiting yourself to a programming language on Freenode's #perl.
+    -- #perl, Freenode
+%
+      <dwave>  anyone envy me? i'm refactoring production code that uses
+               the fact that "" is defined, as a hash key.
+      <dwave>  if (ref $ref->{""} ne "ARRAY") {
+      <dwave>  $ref->{""} = [$ref->{""},$_];
+      <dwave>  } else {
+      <dwave>  $ref->{""} = [@{$ref->{""}},$_];
+      <dwave>  }
+      <dwave>  :(
+       <iank>  hey, that looks like fun.
+   <integral>  Has the author been lynched yet?
+            *  integral would have used "\0" :-P
+      <dwave>  the best of it all, is that it's an XML parser
+      <mauke>  $ref->{""} = [ref $ref->{""} eq "ARRAY" ? @{$ref->{""}} :
+               $ref->{""}, $_]; # fixed
+    <rindolf>  dwave: does this XML parser makes use of an existing XML
+               parser from CPAN?
+    <rindolf>  dwave: or does it do everything from scratch?
+      <dwave>  rindolf: everything from scratch :)
+    <rindolf>  dwave: nice!
+      <dwave>  i'm trying to get rid of it
+    <rindolf>  dwave: re-inventing square wheels.
+      <dwave>  there's a home made unicode lib too
+      <dwave>  !
+    <rindolf>  dwave: ouch!
+ <shaldannon>  nice
+       <iank>  Brilliant!
+ <shaldannon>  dwave: I suggest a dailywtf.com submission
+    <rindolf>  dwave: yeah, I second shaldannon
+
+    -- Production WTF Code on #perl
+    -- #perl, Freenode
+%
+  <bp31416>  rindolf: I command you both, to uninstall it, and install
+             SuSE10.2 =P
+ <jagerman>  "versions" are so annoying.
+ <jagerman>  "I use Linux 10.2!"
+     <iank>  jagerman: I had a friend who insisted the answer to the
+             question "What version of the kernel are you running?" was
+             "gnome".
+ <jagerman>  eval: $POE::Kernel::VERSION
+   <buubot>  jagerman: 1.2173
+ <jagerman>  \o/
+ <Terminus>  heh, a friend of mine only remembers me running ximian a few
+             years ago and he keeps on asking me, "why don't you run
+             ximian again?" where ximian == OS for him.
+  <bp31416>  jagerman: could be worse lingo-wise, in tech-support many
+             folks asking on Q about 'THEIR internet' isn't working, or
+             'does it have internet installed?', I .....like.... sir....
+             when did you manage to buy the internet in whole? .......
+             ahhhh... the internet is not a socket you plug in any of the
+             ports sir
+
+    -- Versions of Software
+    -- #perl, Freenode
+%
+  <rindolf>  "We're doing XP [= Extreme Programming] here, so you need to
+             know Ruby, you need to know Design Patterns and you need to
+             know Refactoring."
+  <rindolf>  XP may have become a religion.
+     <ew73>  I Refactored yesterday!
+  <rindolf>  ew73: using which refactoring pattern?
+     <ew73>  Leviticus 13:22
+    <Somni>  well you will keep refactoring until you get it right!
+          *  rindolf extracts the ew73 method.
+  <rindolf>  ew73: this is one of my favourite refactoring patterns.
+          *  ew73 idly looks up said passage, just to see if it's any
+             good.
+ <integral>  What do you have to know to claim you know refactoring?
+ <integral>  How to click buttons in the right Eclipse menu?
+  <rindolf>  integral: the code is in Ruby.
+ <integral>  Ruby is too cool to be in Eclipse?
+     <ew73>  integral: One time, I moved all this stuff to another
+             subroutine!
+     <ew73>  Lev. 13:22. And if it spread, he shall judge him to have the
+             leprosy:
+  <rindolf>  integral: no, but you cannot refactor Ruby code automatically
+             using Eclipse.
+ <integral>  One time I wrote all this code, but when I was about to go
+             home I found I'd left my brain at home! LOLZ
+ <integral>  ew73: good butter advert in that
+
+    -- Extreme Programming as a Religion
+    -- #perl, Freenode
+%
+ <rindolf>  Hi all.
+ <rindolf>  LeoNerd: here?
+ <LeoNerd>  rindolf: Maybe
+ <rindolf>  LeoNerd: "be here or be not here - there is no maybe"
+ <LeoNerd>  :)
+ <rindolf>  LeoNerd: a.k.a the law of the exclusion of the middle.
+     <dwu>  I think Yoda phrased that one best.
+
+    -- To be here or not to be here on Freenode's #perl
+    -- #perl, Freenode
+%
+  <perlmonkey>  thats just...mental
+     <rindolf>  perlmonkey2: still here?
+ <perlmonkey2>  rindolf: hi
+     <rindolf>  perlmonkey2: hi.
+  <perlmonkey>  phew
+     <rindolf>  perlmonkey2: now we have two Perl monkeys.
+ <perlmonkey2>  hah
+ <perlmonkey2>  good stuff
+ <perlmonkey2>  You can never have too many.
+  <PeaceNLove>  To produce good stuff like Shakespeare's works, we need an
+                infinite number of monkeys
+  <perlmonkey>  we're starting a monkey clan
+     <rindolf>  PeaceNLove: heh.
+     <rindolf>  PeaceNLove: and to write like a monkey we need a million
+                Shakespeares.
+  <PeaceNLove>  perlmonkey, reproduce and multiply, God be with you
+ <perlmonkey2>  PeaceNLove: You can, of course, do anything with an
+                infinite number of perl monkeys.
+ <perlmonkey2>  PeaceNLove: Actually a million monkeys on a million
+                typewriters would most probably have not created Hamlet if
+                they started at the beginning of the Universe.
+  <PeaceNLove>  perlmonkey2, that's fine, the Universe has not ended yet,
+                they have time
+
+    -- Monkey Business at Freenode's #perl
+    -- #perl, Freenode
+%
+ <rindolf>  sarnold: you go to OGI?
+ <sarnold>  rindolf: no; but my boss and a co-worker are professors there,
+            and other co-workers earned degrees there..
+ <rindolf>  sarnold: OK.
+    <muli>  sarnold, have you got one of those pesky things?
+ <sarnold>  muli: just Bachelor of Arts .. no Masters or Ph.D...
+ <rindolf>  sarnold: B.Sc or B.A.?
+    <muli>  rindolf, Bachelor of Arts is B.A.
+ <rindolf>  muli: I know. But I was just checking.
+ <sarnold>  rindolf: ah, you're right, B.Sc.. I chickened out on the
+            language requirements :)
+ <rindolf>  muli: see?? LOL.
+    <muli>  rindolf, sometimes, two bugs cancel each other.
+ <rindolf>  muli: wisely spoken.
+ <rindolf>  But mine wasn't a bug - it was a sanity check.
+
+    -- Not a bug
+    -- #perl, Freenode
+%
+  <rindolf>  Hmmm... xchat-perl is gone.
+  <f00li5h>  OH NOES! ## what's that for then?
+  <rindolf>  Who you're gonna call? Bug-busters!!
+ <Khisanth>  rindolf: never existed, unless you are using an rpm based
+             system
+  <rindolf>  Khisanth: I am.
+  <f00li5h>  I AINT AFRAID OF NO BUG!
+  <rindolf>  f00li5h: heh.
+  <f00li5h>  when there's something wierd and in your code base, who you
+             gonna call?
+ <railbait>  f00li5h: The police?
+  <f00li5h>  railbait: BUG BUSTERS!
+  <f00li5h>  we test it with science then blow it up
+  <f00li5h>  ... or is that someone else
+
+    -- Who you're gonna call?
+    -- #perl, Freenode
+%
+      <Hazard>  How do I look up @- in the perldocs?
+     <rindolf>  Hazard: perldoc perlvar
+      <Hazard>  rindolf: Thanks.
+     <Daveman>  perldoc rindolf
+      <Hazard>  I don't know what I'd do without IRC.
+     <rindolf>  Daveman: I am not a pragma! I'm a free man!
+      <Hazard>  I couldn't even google that.
+     <rindolf>  use Daveman (qw(silliness));
+             *  jetscreamer sends rindolf back to the village
+     <rindolf>  jetscreamer: is it a Perlisoner village where everyone
+                becomes a pragma?
+ <jetscreamer>  and lots of perlBalloons
+     <Daveman>  gumbybrain, how do i make teh web wit shlomi!?
+     <rindolf>  jetscreamer: Perloons.
+     <rindolf>  jetscreamer: Perlunatics.
+     <apeiron>  Perlarks.
+     <Daveman>  perlaugh
+
+    -- Tribute to the Prisoner
+    -- #perl, Freenode
+%
+     <ubajas>  Technically, my first language was Turbo Pascal, but I
+               started over with Perl 10 years later (not having
+               programmed in the meantime). I'm obviously damaged goods.
+       <iank>  ubajas: heh, I read that as "I started with (perl 10)
+               (years later)" instead of "I started with perl (10 years
+               later)" :)
+    <rindolf>  Perl 10!
+    <rindolf>  Perl for the Fourth Millenium.
+   <jagerman>  I thought Perl 6 was supposed to be timeless
+     <ubajas>  iank: Maybe I should have added a comma. :-]
+   <jagerman>  Perl ∞
+       <iank>  perl6 has existed since the beginning of time, or at least
+               it will have existed since then once $Larry finds a time
+               machine.
+ <simcop2387>  iank: i'm sorry but larry is the prophet i am the
+               messanger! i will be the one to take it back!
+       <iank>  WHAT.
+ <simcop2387>  iank: its MY TIME MACHINE!
+            *  iank smacks simcop2387 around
+   <jagerman>  iank: So it'll be like that Star Trek episode, where they
+               say that the development of computers are caused by time
+               travel from the future?
+   <jagerman>  Except that they were too stupid (like most Voyager
+               writers) to get their facts right, and thought computers
+               started in the 70s
+
+    -- The Messiah of Perl
+    -- #perl, Freenode
+%
+ <milardovich>  with strict it say me this:
+ <milardovich>  Global symbol "$lorem" requires explicit package name at
+                split.pl line 3.
+     <rindolf>  milardovich: use "my $lorem = "
+     <rindolf>  milardovich: my is your friend.
+     <rindolf>  pun not intended.
+     <rindolf>  my is my friend.
+         <dwu>  Preferably with a real value after "= " ^.^
+     <rindolf>  dwu: he already has that.
+ <milardovich>  that works with my rindolf
+ <milardovich>  thaks you!!!
+     <rindolf>  milardovich: you're welcome.
+ <milardovich>  :)
+      <ubajas>  I wish I had a rindolf too. :-\
+ <milardovich>  people here are "nicer" than on #php :P
+     <rindolf>  ubajas: I'm mass-produced at Chines sweat-shops.
+      <ubajas>  hehe
+     <rindolf>  ubajas: they sell me for 30 bucks a piece.
+     <rindolf>  milardovich: I've heard some horrible stories about ##php.
+ <milardovich>  perl rulz x)
+     <rindolf>  milardovich: what brings you to Perl?
+  <simcop2387>  rindolf: #php apparantly
+     <rindolf>  simcop2387: heh.
+     <rindolf>  simcop2387++
+
+    -- One rindolf Each on Freenode's #perl
+    -- #perl, Freenode
+%
+    <rindolf>  cl1: what do you do at work?
+        <cl1>  i write code :D
+    <rindolf>  cl1: naturally.
+    <rindolf>  cl1: to do what?
+        <cl1>  right now at this contract, i'm working with .net, c#,
+               asp.net and pl/sql
+    <rindolf>  cl1: sounds enterprisey.
+     <BinGOs>  please don't turn enterprise into a verb.
+    <rindolf>  BinGOs: enterprisey is an adjective, not a verb.
+    <LeoNerd>  Enterprizationaliseation?
+     <BinGOs>  okay.
+        <cl1>  lol @ enterprisey
+    <rindolf>  GumbyBRAIN: BinGOs me!
+ <GumbyBRAIN>  i tend to be good, it doesn't want me to buy an island
+               utopia (you'll get used to bother me.
+     <BinGOs>  But it is a noun and no more.
+     <BinGOs>  mmmkay.
+        <dwu>  BinGOs: Actually, it's also an adjective. Even without "y".
+     <BinGOs>  I HATE YOU ALL.
+            *  dwu grin
+     <BinGOs>  CRITIQUE IS DEFINITELY A FUCKING NOUN.
+        <dwu>  It's also a verb.
+     <BinGOs>  NO IT ISN'T
+ <simcop2387>  BinGOs: i shall critique your use of critique
+     <BinGOs>  JUST BECAUSE SOME DAMNED YANKEE SCUM DECIDE IT IS, DOES NOT
+               MAKE IT SO.
+        <dwu>  It's been used since the 18th century.
+    <rindolf>  BinGOs: dwued!
+     <BinGOs>  I refer you to my earlier hate.
+        <dwu>  I refer you to your fail.
+       <icke>  not earlier than 18th century
+        <dwu>  I really shouldn't. It's mean. But I will.
+        <dwu>  Because I'm mean.
+        <dwu>  icke: Hence "since".
+        <dwu>  'criticises'.
+     <BinGOs>  My fail-gun appears to firing backwards. Damn thing.
+        <dwu>  Your fail gun is... failing?
+
+    -- Are you being verbed on Freenode's #perl
+    -- #perl, Freenode
+%
+      <shishirm1>  is pop3 module avaliable only in perl 5?
+       <jernster>  are you saying you use something other than 5?
+           <icke>  perl 4 didn't even have modules
+       <jernster>  heh
+        <rindolf>  shishirm1: do you want to use it with Perl 4?
+      <shishirm1>  oh ok sorry i am comlete nooob!! so i am just asking
+                   you guys
+      <shishirm1>  nope is perl 5 a standard now?
+       <jernster>  yes
+      <shishirm1>  ok great...
+       <jernster>  :)
+        <rindolf>  shishirm1: Perl 4 is unmaintained, unloved, deprecated,
+                   not recommended, and dead - D. E. D. - DEAD!
+ <simcop2387-lap>  perl 4 is an EXPERL!
+ <simcop2387-lap>  all statements that perl4 is a going concern are thus
+                   inoperative.
+
+    -- How much Perl do you need at Freenode's #perl
+    -- #perl, Freenode
+%
+    <edeca>  Hrm. More infernal questions, mainly because I am trying to
+             make my perl prettier and contain less nasty if's. I have
+             $foo and $bar which are obtained from split(/ /, 'kitten
+             loving'). But I don't want undef if the split fails, I'd
+             rather '' for $bar or both. What's the nicest way to do that?
+ <Khisanth>  ($foo, $bar) = map { $_ // "" } split / /, $str; # 5.10
+             version :)
+    <edeca>  Noo 5.10! :)
+ <Khisanth>  ($foo, $bar) = map { defined $_ ? $_ : "" } split / /, $str;
+             # probably some other shorter ways too
+  <rindolf>  edeca: [bad idea] you can also try using the
+             conditional->inheritance refactoring.
+  <rindolf>  :-)
+          *  Khisanth pours boiling coffee on rindolf
+  <rindolf>  Khisanth: I hate coffee, but I guess I deserved it.
+  <rindolf>  That was a joke, of course.
+ <Khisanth>  you weren't really supposed to like having boiling anything
+             poured on you but I guess you are into the kinkier stuff
+
+    -- Conditional-to-Inheritance Refactoring on Freenode's #perl
+    -- #perl, Freenode
+%
+ <rindolf>  rbastic: QBasic was the sh*t!
+ <rindolf>  rbastic: well, not really.
+ <rbastic>  rindolf: yup, that language is responsible for me having
+            gotten into programming to begin with.
+ <rbastic>  8 yrs old and writing qbasic scripts with QBasic for Dummies
+            by my side
+ <rindolf>  rbastic: I started when I was 10.
+ <rindolf>  rbastic: I know some people who started much later.
+  <talexb>  Late bloomer .. didn't start till I was 15.
+  <Zoffix>  heh, I started at 14... I could not have a computer before
+            that
+ <rindolf>  rbastic: but I know a girl who started programming when she
+            was 6.
+ <rindolf>  Or was it 8?
+  <Zoffix>  rindolf, CAN HAS PHONE NUMBER?!
+ <rbastic>  lol
+ <rindolf>  Zoffix: NO CAN!
+  <Zoffix>  :(
+ <rindolf>  Zoffix: only have her MSN.
+  <Zoffix>  gimmegimmegimme
+  <talexb>  Heh.
+  <Zoffix>  :)
+ <rindolf>  Zoffix: LOL.
+
+    -- Geek Love
+    -- #perl, Freenode
+%
+ <rbastic>  Juerd: eh in today's world of heavy JS on the clientside, i
+            think it makes a little more sense to use the same lang.
+            everywhere
+   <Juerd>  rbastic: JS on the client side is because often it's the only
+            option the universe provides.
+ <rbastic>  Juerd: from a business perspective, you reduce the complexity
+            and potential difficulties in finding new hires with the same
+            skillset
+ <rindolf>  rbastic: have you heard of RJS?
+   <Juerd>  rbastic: On the server side, however, you have great freedom.
+ <rbastic>  rindolf: no, what's that?
+  <Caelum>  larry wants perl6 to run on javascript :)
+ <rindolf>  rbastic: "One Language; and One Sayings".
+   <Juerd>  rbastic: Exactly. I would never hire a server side programmer
+            who knows *only* Javascript, and is too stupid to learn
+            whatever we're using on the server side.
+ <rindolf>  rbastic: my translation to a sentence from the Tower of Babel
+            myth.
+ <rbastic>  Juerd: i'll agree with that also. any real programmer knows or
+            has at least coded in half a dozen languages before
+   <Juerd>  From a business perspective, you should avoid crap coders at
+            all cost.
+   <Juerd>  Knows *or* has coded... Hmmm...!
+ <rindolf>  rbastic: though according to what most scholars believe it was
+            not about using one language but rather thinking the same.
+   <Juerd>  I hope they haven't coded in half a dozen languages without
+            knowing them.
+   <Juerd>  That'd be scary.
+   <zshzn>  Reality is scary, Juerd
+  <talexb>  Hmm, BASIC, FORTRAN, COBOL, assembler, C, more assembler, C,
+            Pascal ... Perl!
+
+    -- The Grand Unified Programming Language
+    -- #perl, Freenode
+%
+ <rindolf>  rbastic: now I'm working with C++.
+ <rindolf>  rbastic: I found out that my project compiles really quickly.
+ <rindolf>  rbastic: under 5 or 10 minutes on a P4-2.4GHz with 1 GB of
+            RAM.
+ <rindolf>  rbastic: maybe KDE is making g++ look bad.
+ <rbastic>  rindolf: yeah, i'm not a big KDE fan
+ <rindolf>  rbastic: actually I'm using KDE-3.5.8 here.
+ <rindolf>  rbastic: I was talking about the compilation speed of KDE apps
+            and KDE itself.
+ <rindolf>  rbastic: possibly because each file has half-a-gazillion
+            headers.
+ <rindolf>  My C++ code is a server one, so we don't have too many deps.
+ <rbastic>  yeah, isn't there a way to cache header files? ie. in their
+            "compiled" form?
+ <rbastic>  or is that something I'm remembering from some other
+            programming language that purported to build on top of C?
+ <rindolf>  rbastic: MSVC has that.
+ <rbastic>  ahh, nods
+ <rindolf>  rbastic: no, Visual C++ has precompiled headers.
+ <rindolf>  rbastic: I remember that I kept deleting them.
+ <rbastic>  yeah, couldn't remember
+ <rbastic>  lol
+ <rindolf>  Pascal compiles very quickly.
+ <rindolf>  That's one of the things I enjoyed in Delphi.
+ <rbastic>  ugh, the app i'm been maintaining in Java was originally a fat
+            client/server desktop app, written in Delphi
+ <rindolf>  rbastic: ah.
+ <rbastic>  i remember booting up the old app for the first time, and
+            being amazed at how slow it was
+ <rbastic>  eventually, i had to duplicate a feature in the Java code and
+            i wasn't sure how it was implemented before
+ <rindolf>  rbastic: you mean the Java app is faster? :S
+ <rbastic>  so being as i had no Delphi experience, and the newer Delphi
+            environments made NO sense to me at all, i just opened up the
+            SQL Server query analyzer
+ <rbastic>  rindolf: yes, but only b/c the Delphi programmer was an idiot,
+            issuing queries over and over again needlessly
+ <rbastic>  rindolf: if you could've seen the MSSQL Performance Analyzer
+            or whatever, it was basically just.. Query1, Query2, Query3,
+            Query1, Query2, Query3, repeat.
+ <rbastic>  it was probably the worst ive ever seen in my life.. belongs
+            on www.thedailywtf.com
+
+    -- Can I haz a fast compiler
+    -- #perl, Freenode
+%
+  <rindolf>  scrottie: hi.
+ <scrottie>  hi rindolf!
+  <rindolf>  scrottie: are you the scrottie from use.perl.org?
+ <scrottie>  yeah.
+  <rindolf>  scrottie: ah, nice to meet you.
+  <rindolf>  Well, chat with you on IRC at least.
+          *  scrottie cowers from the swinging fist probably coming his
+             way
+  <rindolf>  scrottie: I'm "Shlomi%20Fish"
+ <scrottie>  oh, heh, thanks
+  <rindolf>  It's a curse.
+ <scrottie>  hmm. i vaguely remember interesting stuff from you but can't
+             honestly place what.
+ <scrottie>  I know I've seen you around here before too.
+  <rindolf>  Yeah, my use.perl.org blog is mostly technical and
+             perl-related.
+ <scrottie>  I post on use.perl.org entirely too much.
+  <rindolf>  So it may be a bit boring.
+  <rindolf>  Sometimes it's a bit philosophical.
+  <rindolf>  scrottie: yes.
+ <scrottie>  heh. and mine is offensively off-topic.
+  <rindolf>  scrottie: I have other blogs.
+ <scrottie>  I've posted to livejournal twice!
+
+    -- I think too much - therefore I blog too much
+    -- #perl, Freenode
+%
+    <rindolf>  Can we add styles like <b>, <i>, etc.?
+    <rindolf>  Or colours?
+    <rindolf>  Or blink?
+    <rindolf>  Or images?
+    <rindolf>  Or flash applets?
+   <scrottie>  <banner>!
+ <alanhaggai>  rindolf: No I think. Google's Web Application does not
+               allow them. It is just a <textarea>.
+
+    -- How intrusive do you want your text to be?
+    -- #perl, Freenode
+%
+  <rindolf>  scrottie: you are a native English speaker right?
+  <rindolf>  scrottie: do you know #linguistics ?
+ <scrottie>  not familiar with #linguistics, yes, I am a native English
+             speaker, but my spelling is atr... my spelling is terrible.
+  <rindolf>  atrocious?
+ <scrottie>  yeah, that
+ <scrottie>  I have an xterm dedicated to dict/spell
+  <rindolf>  scrottie: spelling is probably easy to fix using aspell.
+  <rindolf>  scrottie: heh.
+  <rindolf>  scrottie: I'm using xchat which has an red-line for spelling
+             mistakes.
+  <rindolf>  Very useful.
+  <rindolf>  Too bad I'm using British spelling where it sometimes
+             misbehaves.
+  <rindolf>  aspell, I mean.
+
+    -- Freenode's #pearl
+    -- #perl, Freenode
+%
+ <rindolf>  A lot of ise's [in Aspell's British Spelling checker] are
+            false positivies.
+ <rindolf>  positives even.
+ <rindolf>  People who say $minor_spelling_correction even, are lam.
+ <rindolf>  lame even.
+ <rindolf>  I never get tired of these self-referential jokes.
+
+    -- Lame even
+    -- #perl, Freenode
+%
+ <scrottie>  The tech side was there... but I was stuck with my fucking
+             graphics I did in crayon. I kid you not. Crayon.
+ <scrottie>  It was a cry for help.
+ <scrottie>  Programmers will work with each other on fun projects, but
+             graphic designers never get involved in stuff like that.
+  <rindolf>  scrottie: ah.
+ <scrottie>  then there's kingdomofloathing.com... stick figures.
+  <rindolf>  scrottie: there are some graphic designers who contribute to
+             KDE, GNOME, etc.
+ <scrottie>  fuck graphic artists. we should round them all up and burn
+             them.
+  <rindolf>  scrottie: heh.
+ <scrottie>  okay, they can live.
+  <rindolf>  scrottie: scrotitler!
+ <scrottie>  the rest get burnt though.
+  <rindolf>  "He who starts by burning graphics desginers will end up
+             burning programmers."
+ <scrottie>  only the ASP and PHP programmers... then we'll see where
+             things are at and re-evaluate the plan.
+  <rindolf>  First they came to the graphics designers...
+ <Khisanth>  then they came for more graphics designers
+  <rindolf>  scrottie: I knew some very nice PHP programmers.
+  <rindolf>  And VB ones.
+ <scrottie>  yeah, me too. real shame.
+  <rindolf>  scrottie: I still know some PHP programmers.
+
+    -- The Third #perl Reich (on Freenode #perl).
+    -- #perl, Freenode
+%
+        -->  B-rabbit has joined #perl
+  <rindolf>  B-rabbit? I know a B-rat on #linguistics.
+ <B-rabbit>  rindolf, cool =]
+  <rindolf>  B-rabbit: ok.
+ <B-rabbit>  my full name is bunny rabbit bt w :)
+ <B-rabbit>  hehe
+  <rindolf>  B-rabbit: ah.
+  <rindolf>  B-rabbit: "bunny" is a female name.
+ <B-rabbit>  lol
+  <pippijn>  rindolf: correct
+  <pippijn>  I know a bunny
+  <rindolf>  Or a Playboy bunny.
+       <ik>  rindolf: bunny is a stripper name
+  <pippijn>  friends call her bun
+       <ik>  pippijn: is she a stripper?
+ <B-rabbit>  rindolf, i am a male lol x sorry to disappoint u
+  <rindolf>  "IRC: Where men are men, women are men, and the kids are FBI
+             agents."
+  <rindolf>  B-rabbit: ok, no problem.
+       <ik>  pippijn: she should change her name
+  <pippijn>  ik: it doesn't hurt her
+       <ik>  pippijn: right, but she's violating a fundamental law
+       <ik>  pippijn: she either needs to change her name or become a
+             stripper
+  <rindolf>  ik: I think the other option is better.
+  <pippijn>  ik: she'd probably become a stripper rather than changing her
+             name
+  <rindolf>  pippijn: LOL.
+       <ik>  rindolf: yeah, but you're creepy
+  <rindolf>  I think I'll make a fortune out of it.
+
+    -- The Name "Bunny"
+    -- #perl, Freenode
+%
+ <dazjorz>  Hi rindolf :)
+ <rindolf>  Hi dazjorz
+ <rindolf>  dazjorz: what's up?
+ <rindolf>  dazjorz: No Tests for You?
+ <rindolf>  No *more
+ <dazjorz>  No more tests :)
+ <rindolf>  dazjorz: No more tests for you!!! For three months!
+ <rindolf>  dazjorz: nice!
+ <dazjorz>  :D
+ <dazjorz>  Two, I think
+
+    -- The anti-School nazi
+    -- #perl, Freenode
+%
+   <yrlnry>  Hi, I heard that Perl is just HTML with some sort of macro
+             preprocessor attached. So I thought you would be the right
+             people to ask about whether there is a way to make the
+             submitted value on an <input type=submit> different from the
+             visible label on the button.
+   <yrlnry>  Thanks in advance.
+          *  Roderick tars and feathers yrlnry.
+   <yrlnry>  Hi, Roderick! How's the kid?
+    <Somni>  you have been misinformed, sir; Perl is just a regex engine
+             with named variables
+   <ne2k__>  yrlnry: that is possibly one of the oddest questions I have
+             ever heard
+   <yrlnry>  ne2k__: What's odd about "How's the kid?"
+   <yrlnry>  You need to get out more, seriously.
+   <ne2k__>  yrlnry: I meant the original question
+ <Roderick>  Congratulations, I hope it's going well.
+   <yrlnry>  Do you know that Jewish folktale about the man who lives in a
+             tiny hut with his wife and kids and they can't stand the
+             crowding any more, so they go to the rabbi for advice, and
+             the rabbit suggests that they bring the chickens, goat, and
+             cow into the house too?
+   <ne2k__>  yrlnry: not that it has anything to do with perl, but the
+             <input> tag in HTML has both "name" and "value" attributes.
+             the value is what gets shown in the browser typically.
+   <yrlnry>  ne2k__: yes, and the value is also what is submitted when
+             someone presses the button, but I want the displayed label to
+             be different from what it submitted, as it is say with
+             <option ...>
+
+    -- yrlnry as a Perl newbie
+    -- #perl, Freenode
+%
+      <mMish>  hi rind
+    <rindolf>  Hi mMish
+    <rindolf>  mMish: now you're mMish ?
+    <rindolf>  mMish: are you eMish, oMish, aMish , etc?
+      <mMish>  yes
+    <rindolf>  mMish: ah, nice.
+      <mMish>  depends on the mood
+    <rindolf>  GumbyBRAIN: how many nicks must a one IRCer have?
+ <GumbyBRAIN>  Oh, i lie, now it's stuck on posting things to do it. You
+               said you couldn't have one of many.
+    <rindolf>  mMish: ah OK.
+    <rindolf>  xMish
+    <rindolf>  iMish
+    <rindolf>  zMish
+    <rindolf>  Like the IBM computers.
+    <rindolf>  pMish
+      <mMish>  ppszMish <--- HUngarian
+    <rindolf>  mMish: LOL.
+    <rindolf>  lpstrMish
+    <dazjorz>  is lpstr a function?
+    <dazjorz>  get_magic_quotes_gpcMish
+    <rindolf>  dazjorz: no, Long Pointer to string.
+    <dazjorz>  PHP++ :')
+    <rindolf>  dazjorz: why?
+    <rindolf>  perlbot: karma PHP
+    <perlbot>  Karma for PHP: -147
+    <LeoNerd>  It takes some nerve to say "PHP++" in #perl :P
+    <dazjorz>  rindolf: because they have get_magic_quotes_gpc!
+    <dazjorz>  don't we all love get_magic_quotes_gpc!
+    <rindolf>  dazjorz: oh.
+    <dazjorz>  it's a function
+    <rindolf>  dazjorz: love, hate - what's the difference.
+    <rindolf>  dazjorz: that does what?
+    <dazjorz>  to get the value of magic_quotes_gpc in the config file.
+    <rindolf>  dazjorz: ah.
+    <dazjorz>  so they have get_magic_quotes_gpc for
+               get_ini('magic_quotes_gpc')
+    <rindolf>  dazjorz: LOL.
+    <dazjorz>  plus, there's the magic_quotes_gpc to escape all input a
+               script gets via POST, GET and COOKIE.
+    <rindolf>  dazjorz: yes, sounds Evil.
+    <rindolf>  Just use placeholders.
+
+    -- Which Prefix do you Want today?
+    -- #perl, Freenode
+%
+      <krang>  Hey all, what's the best way to call one perl script from
+               another? I was thinking I'd just use 'system("script.pl");'
+    <dazjorz>  krang: yeah, that, or do "script.pl"
+    <dazjorz>  krang: depends on how seperated you want them to be
+      <krang>  dazjorz: you mean just a line that has "script.pl"; written
+               on it?
+   <Khisanth>  you need the do as well
+    <dazjorz>  krang: no, exactly this: do "script.pl";
+    <rindolf>  krang: system is usually what you want.
+    <rindolf>  krang: normally require or use are preferable to do
+    <dazjorz>  rindolf: that's for modules, isn't it ?
+    <rindolf>  dazjorz: yes.
+    <dazjorz>  wait, I think require "script.pl" would work too
+    <rindolf>  dazjorz: and doing code is not such a good idea.
+    <dazjorz>  rindolf: hmm?
+      <krang>  rindolf: what is doing anyway?
+    <rindolf>  dazjorz: I mean "perldoc -f do"-ing code.
+    <rindolf>  krang: do()-ing
+    <rindolf>  krang: it reads the file and evaluates it.
+    <rindolf>  krang: perldoc -f do.
+    <dazjorz>  rindolf: ah
+    <dazjorz>  rindolf: do {}
+            *  rindolf would rather be doing hot models than doing code.
+               :-)
+    <dazjorz>  rindolf: yeah, do BLOCK is quite useless
+    <dazjorz>  heh
+    <rindolf>  dazjorz: you can do my $var = do { ... }
+            *  dazjorz would rather be doing GumbyBRAIN than doing code
+ <GumbyBRAIN>  and doing code is not be in the days of immortality!
+    <rindolf>  dazjorz: or eval { ... }
+    <rindolf>  dazjorz: heh.
+    <rindolf>  It's hard to do code.
+    <dazjorz>  do $model;
+    <dazjorz>  eh.. sorry, do $hotmodel;
+    <rindolf>  "Are you into my brother?"
+    <rindolf>  "No I'm totally into Perl."
+      <krang>  ah ok, I see. Thanks guys!
+    <rindolf>  krang: yw.
+    <dazjorz>  heh :-)
+    <rindolf>  If you want a configuration file, you should be using
+               something like INI, YAML, etc.
+    <rindolf>  XML perhaps.
+    <rindolf>  Something.
+    <rindolf>  Apache-like config.
+    <dazjorz>  Apache-like is very strong but hard to parse, right ?
+    <dazjorz>  Loading and saving configuration never looks good,
+               especially when it's XML
+    <dazjorz>  the code to load and save is ugly.
+
+    -- Sextalk among Perl cultists
+    -- #perl, Freenode
+%
+ <f00li5h>  rindolf: are you coming out this way on tour some time?
+ <rindolf>  f00li5h: to .au?
+ <f00li5h>  yes!
+ <rindolf>  f00li5h: don't think so.
+ <f00li5h>  you can pay some of my rent for a bit ^_^
+ <rindolf>  f00li5h: I'm out of job too.
+ <f00li5h>  perfect timing!
+ <f00li5h>  no commitments
+         *  f00li5h is very good at constructing circular arguments due to
+            his skill in constructing circular arguments
+
+    -- Will rindolf come to Australia?
+    -- #perl, Freenode
+%
+       <Anon>  today my kitty gave a birth to two kitties!
+    <rindolf>  Anon: ah, nice.
+       <Anon>  one of them died :(
+       <Anon>  during birth
+    <rindolf>  Anon: oh. :-(
+ <simcop2387>  Anon: were you expecting it to happen?
+ <simcop2387>  :(
+       <Anon>  simcop2387, i was expecting this week
+    <rindolf>  Anon: do you know who the father is?
+ <simcop2387>  ah
+       <Anon>  rindolf, some cat
+ <simcop2387>  rindolf: hopefully not him
+       <Anon>  rindolf, remember my kitty ran away
+    <rindolf>  Anon: ah.
+       <Anon>  for a week
+    <rindolf>  Anon: no I don't remember that.
+       <Anon>  well, she ran away for a week
+    <rindolf>  Anon: ah.
+       <Anon>  and came back
+       <Anon>  and during that time she got pregnant.
+    <rindolf>  Anon: ah.
+   <freehaha>  they don't seem to have safe sex
+    <rindolf>  Anon: she eloped.
+ <simcop2387>  Anon: sounds like she had fun
+       <Anon>  simcop2387, sounds like that :)
+ <simcop2387>  Anon: you should have the talk with her about birth control
+               then (i wonder do they even make birth control for kitties)
+
+    -- The Love Life of Cats
+    -- #perl, Freenode
+%
+            *  rindolf is listening to
+    <rindolf>  Oh crud.
+    <rindolf>  I should support Kaffeine too.
+  <Tanktalus>  rindolf is apparently deaf... ;-)
+            *  rindolf is listening to Metallica - Nothing Else Matters
+     <ubajas>  NOTHING ELSE MATTERS, DUDE
+        <tkr>  rindolf: thats nice :)
+        <tkr>  rindolf: how about guns 'n roses?
+            *  rindolf is listening to Guns and Runs - don't cry
+    <rindolf>  tkr: you read my mind.
+    <rindolf>  tkr: I now placed some of their songs.
+    <rindolf>  Now it's November Rain.
+        <tkr>  rindolf: next time youll come to finland Ill buy you a beer
+               (with no alcohol)! :)
+        <tkr>  rindolf++
+    <rindolf>  tkr: OK.
+    <rindolf>  tkr: we have something called "Black Beer" in Israel.
+    <rindolf>  Which is a non-alcoholic beer.
+ <simcop2387>  rindolf: THATS RACIST! IT SHOULD BE AFRICAN AMERICAN
+               ISREALI BEER!
+      <edenc>  rindolf: is it any good?
+    <rindolf>  simcop2387: heh .
+
+    -- Beer, Perlers and Song
+    -- #perl, Freenode
+%
+ <LeoNerd>  I feel there must be a way to do this... given func( foo => 1,
+            bar => 2 ); how to write my ( $foo, $bar ) = .... inside the
+            function?
+ <LeoNerd>  My current attempt is my ( $foo, $bar ) = @{{@_}}{qw( foo bar
+            )}; which is messy as sin
+    <icke>  LeoNerd: what's the problem? readability?
+ <LeoNerd>  Yah
+ <dazjorz>  LeoNerd: I'd change specs to be func({ foo => 1, bar => 2})
+ <dazjorz>  then my ($foo, $bar) = ($_[0]{foo}, $_[0]{bar});
+     <ton>  Leonerd: If you insist on doing it on one line, that's about
+            as good as it gets. But why not use a temporary hash ? Should
+            be just as fast and as readable
+ <LeoNerd>  Hrm.. :/ Then it's only marginally nicer as my ( $foo, $bar )
+            = @{$_[0]}{qw( foo bar )};
+ <LeoNerd>  my %args = @_; my ( $foo, $bar ) = @args{qw( foo bar )}; ya...
+            that works
+     <mst>  LeoNerd: my ($foo, $bar) = do { my %a = @_; @a{qw(foo bar)} };
+     <ton>  if you combine it with a delete you can then check if %args is
+            empty and catch typos or unexpected arguments....
+ <LeoNerd>  Oooh.. a do block
+ <vincent>  or use padwalker
+ <LeoNerd>  Oh, args won't be empty... this is a wrapper function that
+            pulls a few named args off and sends the rest to a nested
+            inner function
+ <LeoNerd>  Now.. I want to call a function "foreach" but that breaks
+            things... suggestions?
+    <icke>  a method could be named 'foreach'
+ <LeoNerd>  Ya.. but this is a plain function
+    <icke>  tough
+ <LeoNerd>  I suppose "iterate" is about as best as I'll get
+    <icke>  for_each
+     <ton>  LeoNerd: forall ?
+ <LeoNerd>  I'll think on it overnight maybe.. I guess it's home time now
+    <icke>  foreachandeverysingleone
+     <ton>  forever, forfun, forlorn...
+ <vincent>  FOREACH
+    <icke>  boo
+ <LeoNerd>  one_for $all and $all for @one;
+ <rindolf>  forevery?
+ <rindolf>  <LeoNerd> one_for $all and $all for @one; - heh
+ <rindolf>  $one for @all and @all for @one
+ <rindolf>  $one for @all and @all for @$one
+ <rindolf>  $one for @all and @all for $one
+ <rindolf>  Works too.
+ <LeoNerd>  Hrm.. it does?
+ <LeoNerd>  deparse: $one for @all and @all for $one
+  <buubot>  LeoNerd: Error: syntax error at (eval 107195) line 1, near
+            "@all for "
+ <LeoNerd>  You can't use two postmod fors in a single statement
+
+    -- Syntax Fun
+    -- #perl, Freenode
+%
+   <as841>  Hi, i am doing a print
+            $drh->func('createdb',$database,"localhost","root",$password,'admin');
+            but getting this Can't call method "func" on an undefined
+            value
+   <as841>  could anyone point me in the right direction ?
+  <Yaakov>  o/~ Ow we want the func / Give up the func / Ow we need the
+            func / We gotta have that func o/~ </drforr>
+ <rindolf>  We got the func!
+ <rindolf>  Forget the fee func, we've got the see func!
+   <as841>  wtf?
+   <as841>  did i launch a movement or what ?
+  <Yaakov>  What the func?!
+
+    -- The func
+    -- #perl, Freenode
+%
+            *  f00li5h paws at dazjorz
+    <dazjorz>  f00li5h! :)
+    <f00li5h>  how goes it?
+    <dazjorz>  it goes very fine. :)
+            *  pkrumins f00s at pawlish
+            *  f00li5h pkrums at pawkrumins
+   <pkrumins>  f00li5h, thank you sir! =^_^=
+    <f00li5h>  dazjorz: I am quite well
+            *  dazjorz li5hes at f00paw
+            *  dazjorz rins at pawdolf... man, I could go on forever.
+   <pkrumins>  haha
+   <pkrumins>  pawdolf
+            *  pkrumins dazes at pawjorz
+            *  dazjorz gumbys at .. oh well
+            *  pkrumins paws at GumbyBRAIN
+ <GumbyBRAIN>  Ik paws at gumbybrain.
+
+    -- More Than One Way for a Cat to Paw
+    -- #perl, Freenode
+%
+       <Similian>  is there a smart way to read a file to a certain string
+                   bit by bit ?
+       <Similian>  which loop to use?
+        <rindolf>  Similian: you can read it byte by byte.
+        <rindolf>  Similian: do you want to read the whole thing?
+       <Similian>  no
+       <Similian>  too big 200 MB
+ <simcop2387-lab>  reading bit by bit is usually not supported by most
+                   operating systems
+        <rindolf>  Similian: then do you want to read one byte at a time?
+             <ik>  or one line at a time?
+       <Similian>  guess a line would be better
+        <rindolf>  simcop2387-lab: it is on my rindolfOS running on Intel
+                   1001.
+        <rindolf>  Which was a 1-bit processor.
+             <ik>  heh
+             <ik>  I had a half-bit processor
+             <ik>  it just stored ones
+       <danieldg>  ik: that would be a zero-bit processor then
+             <ik>  no no
+       <danieldg>  half-bit processor stores 0's or sqrt(2)'s
+             <ik>  sqrt(2) may as well be 1
+ <simcop2387-lab>  rindolf: a 1 bit processor would be a hell of a thing
+                   to work with
+       <danieldg>  not if you can't test it unless it's one
+             <ik>  We're not talking about numbers, we're talking about on
+                   and off, true and false, whatever you want to call it
+             <ik>  sqrt(2) is nonzero, so it's one.
+        <rindolf>  danieldg: not 1/sqrt(2)?
+       <danieldg>  hmm it would probably be that, yes
+ <simcop2387-lab>  my proc uses sqrt[-1]!
+             <ik>  may as well
+       <danieldg>  ik: think quantum computers. It tests true with
+                   probability 1/sqrt(2)
+             <ik>  I'm not talking about a quantum computer..
+       <danieldg>  well a 1/2 bit computer clearly can't be classical
+
+    -- Bit by bit
+    -- #perl, Freenode
+%
+ <rindolf>  whoppix: what's up?
+ <whoppix>  rindolf, haskelling through the night.
+ <rindolf>  whoppix: ah.
+ <whoppix>  rindolf, im pretty much a beginner, tho.
+ <rindolf>  whoppix: yes, I learned Haskell back at the time.
+ <rindolf>  whoppix: I tried to write a log analyser in Haskell once.
+ <rindolf>  whoppix: it segfaulted.
+ <rindolf>  whoppix: a CL-one was much better.
+  <Caelum>  rindolf: haha
+ <whoppix>  sadness
+ <rindolf>  whoppix: then people showed me how to write it better.
+ <rindolf>  whoppix: but it segfaulted too.
+ <whoppix>  haha
+  <Caelum>  hahaha
+  <Zoffix>  lol
+ <rindolf>  whoppix: I gave up on using Haskell for production.
+  <Caelum>  rindolf: I've submitted your story to bash.org
+
+    -- Log Analyser in Haskell
+    -- #perl, Freenode
+%
+     <rindolf>  perlmonkey2: I've ran into a strange problem with CMake.
+                It's some kind of bug that disappears after running a few
+                commands.
+ <perlmonkey2>  rindolf: heh, the best kind of bugs are intermittant and
+                only happen under load :P
+     <rindolf>  perlmonkey2: it's not load.
+      <daemon>  The best kind of bugs are the ones that do not happen at
+                all :)
+     <rindolf>  daemon: heh.
+     <rindolf>  daemon++
+     <Altreus>  The best kind of bugs are the ones that only happen to
+                people you hate.
+ <perlmonkey2>  hahahaha
+     <Altreus>  Those aren't usually bugs
+     <Altreus>  >:)
+      <daemon>  Altreus, you mean the ones you coded to happen to that
+                said person ;)
+      <daemon>  hehe
+     <Altreus>  Not being able to reproduce strange behaviour is fine too
+
+    -- Best kind of bugs
+    -- #perl, Freenode
+%
+           *  Zoffix &
+ <^Quiddity>  Zoffix: fg
+   <apeiron>  ^Quiddity, no
+   <apeiron>  kill %1
+   <rindolf>  kill -9 apeiron
+   <apeiron>  rindolf, EPERM
+ <^Quiddity>  kill: apeiron: arguments must be process or job IDs
+   <rindolf>  apeiron: sudo kill -9 apeiron
+ <^Quiddity>  killall -9 apeiron
+   <rindolf>  pkill -9 apeiron
+   <apeiron>  rindolf, user rindolf is not in the sudoers file, this event
+              will be reported
+           *  apeiron wonders what it says about him that he has that
+              error message pretty much memorized
+ <^Quiddity>  apeiron: that you don't spend enough time issuing commands
+              correctly
+
+    -- The IRC-Based UNIX Shell
+    -- #perl, Freenode
+%
+ <rindolf>  mst: sorry for that - that was not my intention.
+     <mst>  rindolf: I know it wasn't. you aren't that retarded. but the
+            way your comment came across was :)
+ <rindolf>  mst: yes.
+ <rindolf>  mst++
+ <rindolf>  mst: "you aren't that retarded." - you shouldn't insult my
+            retardedness (sp?). I worked all my life to be so retarded.
+ <Altreus>  I think you can spell made-up words like 'retardedness'
+            however you like
+ <carpftb>  if you're a retard.
+   <Botje>  heh
+   <Botje>  working hard is the exact opposite of retardedness :]
+ <Altreus>  hardly working
+
+    -- Retardedness
+    -- #perl, Freenode
+%
+ <jfroebe>  trying to come up with a replacement name for my
+            Flickr::Simple2.. (it is based off of XML::Simple rather than
+            XML::Parser::Lite::Tree) - Net::Flickr, Flickr::API,
+            Flickr::Simple are already taken. Any ideas? I'm coming up
+            blank for a name
+ <jfroebe>  It is a Perl interface to Flickr
+  <mofino>  wait
+ <rindolf>  jfroebe: ah, I saw your message on Chicago.pm
+ <rindolf>  jfroebe: maybe WWW::Flickr
+  <mofino>  you found others and decided you needed to make ANOTHER perl
+            interface to flickr?
+ <jfroebe>  the other ones have been broken for a long time (either
+            because of use of the abandoned XML::Parser::Lite::Tree module
+            or because the authentication method was never correctly
+            implemented)
+     <buu>  jfroebe: Please no more names involving ::Simple
+ <rindolf>  buu: ::Tiny
+ <jfroebe>  WWW::Flickr is a good possibility
+     <buu>  Thanks rindolf.
+  <mofino>  hah tiny is the new simple
+ <rindolf>  ::Minimal.
+     <buu>  ::SeriouslyfuckingSmall
+ <rindolf>  ::NotEnough
+ <rindolf>  ::GargantuanlySmall
+ <rindolf>  ::Minuscule
+ <apeiron>  ::Warning::Uses::XML::Simple::And::Thus::Has::
+            Terrible::Performance::And::Memory::Usage
+     <Fah>  ::Deficient
+  <mofino>  stay in the Flickr:: space
+ <rindolf>  apeiron++
+  <mofino>  if there already is one
+ <jfroebe>  mofino.. that's the problem what to name it
+   <nadim>  ::Nano
+   <nadim>  that should be small enough and it sounds serious
+  <mofino>  jfroebe, something in Flickr:: ;)
+ <rindolf>  ::Femto
+ <jfroebe>  lol - understood
+  <mofino>  jfroebe, ::Improved ::Modern ::Lite ::Tiny ::FUCKYEAH
+ <rindolf>  jfroebe: a Rose by any other name...
+  <mofino>  IS A DUCK
+ <rindolf>  I think half the posts to module-authors are about "How shall
+            I name this module?"
+  <mofino>  haha
+      <ik>  I use perlmonks for that ^_^
+ <rindolf>  jfroebe: I'm not a fan of XML::Simple either.
+  <mofino>  XML::Simple is teh awesome
+      <ik>  1;
+      <ik>  XML::Simple is teh sux
+  <mofino>  whatever
+      <ik>  "this could be an arrayref or a hashref or a nothingref
+            depending on how many thingies were in your doo-dad"
+  <mofino>  force it
+      <ik>  yes
+  <mofino>  but yeah, that is a bit annoying
+ <rindolf>  ik++ - my thoughts exactly.
+  <mofino>  OH SUDDEN HASHREF
+ <apeiron>  XML::Simple is the MySQL of XML parsers.
+  <mofino>  haha
+  <mofino>  ahh mysql, DOOOMED
+ <rindolf>  Haha # apeiron++
+  <kent\n>  lol @ > apeiron
+  <drforr>  There's a reason it's called "Simple." You'll find out about 3
+            days after you start using it.
+  <kent\n>  would it be anything releated to being feature-incomplete
+  <drforr>  That would be be why it's "simple".
+ <jfroebe>  but for simple XML data (i.e. Flickr's REST API), it is more
+            than sufficient
+  <kent\n>  define "simple" XML
+  <kent\n>  $xml = '<' # already too complex
+ <jfroebe>  kent - lol
+ <jfroebe>  :)
+ <jfroebe>  thoughts on Flickr::YA::API ?
+ <jfroebe>  for a name
+  <mofino>  jfroebe, YA?
+ <jfroebe>  yet another
+  <mofino>  ...
+  <mofino>  just pick a name
+  <mofino>  Flickr::API
+  <mofino>  oh, nevermind
+ <jfroebe>  mofino - now you see.. all the good ones are taken ;-)
+  <mofino>  maybe you had it at Flickr::Simple2
+  <kent\n>  Flickr::API:: something
+  <kent\n>  or something
+  <mofino>  kent\n, namespace already in use
+ <rindolf>  Flickr::Two
+  <mofino>  jfroebe, since your API is an improvement over Simple
+   <nadim>  mst: lol
+  <kent\n>  Flickr::API::SucksLess
+ <rindolf>  jfroebe: you can call it Flickr::Jfroebey
+ <jfroebe>  mofino, I think you might be right.
+  <kent\n>  Flicker::API::FAFINAFA
+ <jfroebe>  rindolf - lol ... my head is already big enough lol
+  <mofino>  jfroebe, i mean, if that's what it is, it shows a clear
+            progression from Simple
+  <kent\n>  ( Flicker::API::FAFINAFA is not a flickr api )
+   <nadim>  Flicker::rekcilF
+ <rindolf>  jfroebe: I have released Spork::Shlomify with some random
+            changes to Spork that I needed.
+ <rindolf>  Well, I use subclassing to implement them.
+ <jfroebe>  lmao
+ <apeiron>  You forked that spork!
+ <rindolf>  apeiron: it's not a fork! It's an improved spork!
+ <rindolf>  Flickr::Bettr
+  <kent\n>  Flickr::Strobe
+  <kent\n>  ( its a bit brighter )
+  <kent\n>  Flickr::OnAndOff
+   <nadim>  Flickr::FullBeam
+   <nadim>  Flickr::FullLights
+  <kent\n>  Flickr::2009
+  <mofino>  Flickr::Meat
+  <kent\n>  that way somebody will be able to invent something better next
+            year
+  <kent\n>  and call it Flickr::2010
+  <mofino>  Flickr::rkcilF
+  <mofino>  Flickr::Barbie::Edition
+  <mofino>  Flickr::Nuts
+   <nadim>  Flickr::3b0f3a25d07e5d9dbdf98db15ee70410 (and no, it is not
+            random)
+  <mofino>  Flickr::911wasaninsidejob
+   <nadim>  hehe
+  <mofino>  haha
+ <jfroebe>  thanks guys :) I've requested the Flickr::Simple2 namespace
+            via pause
+
+    -- "A rose by any other name…" (and a little on XML::Simple)
+    -- #perl, Freenode
+%
+ <Mel|work>  Yaakov: icke==troll?
+  <rindolf>  Mel|work: no, he's not a troll.
+   <Yaakov>  Mel|work: No, icke is just... enthusiastic about "channel
+             purity"
+ <Mel|work>  k....
+          *  rindolf hates when people abuse the == operator in English
+             for "contained in"
+  <apeiron>  rindolf, "icke contained in troll"? That's not what Mel|work
+             meant.
+    <tarbo>  sure he did, if you make troll a set of users
+  <rindolf>  apeiron: what he meant by icke == troll is that icke belongs
+             to the set of trolls.
+  <rindolf>  apeiron: not that every troll in the world is icke.
+  <apeiron>  rindolf, No, he was asking if icke is a troll.
+     <icke>  $icke->isa('Troll');
+     <icke>  (false)
+  <rindolf>  apeiron: is-a means "contained in the set of objects with the
+             property of"
+  <rindolf>  apeiron: mathematically speaking.
+  <apeiron>  rindolf, Okay, so you're assigning the mathematical meaning
+             of == to its usage in a *perl* channel?
+  <apeiron>  rindolf, Now who's fiddling with meanings, eh?
+  <rindolf>  apeiron: whatever.
+  <apeiron>  'whatever' is what those who have lost their argument say.
+  <rindolf>  apeiron: whatever.
+  <apeiron>  ^ QED
+  <rindolf>  apeiron: whatever.
+  <PerlJam>  apeiron: I thought that's what people who don't care say.
+  <apeiron>  PerlJam, If one doesn't care, they wouldn't respond.
+  <PerlJam>  apeiron: whatever
+  <PerlJam>  ;-)
+  <rindolf>  LOL.
+
+    -- Whatever
+    -- #perl, Freenode
+%
+     <rindolf>  My father and I joked about sorting the dishes in the
+                dishwasher.
+     <rindolf>  My father said: "If you won't sort the dishwasher, the
+                dishwasher won't be sorted."
+      <Loci64>  rindolf: bubble sort *g*
+        <icke>  dishsort
+     <rindolf>  Then I said "No, it won't be sorted by me."
+     <rindolf>  So he said "No, it won't be sorted at all. We will throw
+                the dishwasher."
+     <rindolf>  "Along with all the dishes."
+     <rindolf>  Loci64: bubble sort is inefficient.
+     <rindolf>  Loci64: you should use quicksort or mergesort.
+     <whoppix>  or bashsort, or heapsort!
+        <icke>  yeah, but thorough.
+     <rindolf>  Loci64: or for small values of "N" - insertion sort.
+     <whoppix>  although I can't remember if those were stable.
+     <rindolf>  whoppix: what is bashsort?
+        <icke>  that matters for a dishwasher
+ <EvanCarroll>  /bin/sort
+ <EvanCarroll>  duh
+      <Loci64>  hehe, but dishwashers usually have medium to large numbers
+                of N ;-) maybe trashsort solves the problem
+     <rindolf>  EvanCarroll: perldoc -f sort is more portable.
+     <whoppix>  rindolf, shellsort, not bashsort, sorry :)
+     <rindolf>  But I'll need to build a robot to use it with the dishes.
+        <icke>  cshsort
+ <EvanCarroll>  here must be a trillion sorting algos
+ <EvanCarroll>  and 9/10 of them are total shit
+ <EvanCarroll>  and inferior in every way.
+ <EvanCarroll>  This sorting algorithem is coveted if you KNOW that only
+                one value is out of perfect order and it sits in the
+                second to last position of the input.
+
+    -- dishsort
+    -- #perl, Freenode
+%
+   <rindolf>  Good localtime(), #perl!
+ <sproingie>  rindolf: good scalar localtime to you
+   <rindolf>  sproingie: oooh! scalar context.
+ <sproingie>  well i didn't want to make ya parse it
+   <rindolf>  sproingie: it is implied however.
+ <sproingie>  (er unparse it)
+   <rindolf>  Good strftime($format, localtime()).
+   <rindolf>  But better use DateTime.
+   <rindolf>  Or something.
+      <icke>  sub good ($$$) { ... }
+   <rindolf>  icke: yes.
+   <rindolf>  eval: good localtime(), #perl!
+   <buubot3>  rindolf: ERROR: syntax error at (eval 21) line 1, near "good
+              localtime"
+   <Altreus>  eval: 'hi rindolf how is your '.scalar localtime.'?'
+   <buubot3>  Altreus: hi rindolf how is your Tue Mar 10 15:43:13 2009?
+   <rindolf>  Altreus: how is my Tuesday, 10-March-2009?
+   <rindolf>  Altreus: or do you mean down right to that exact second.
+   <Altreus>  rindolf: I gave you as much information as I could for you
+              to use as you see fit.
+   <Altreus>  If you don't need it all you can just take the date
+
+    -- Good scalar localtime()
+    -- #perl, Freenode
+%
+ <rindolf>  The Module::Build saga goes on!
+     <mst>  Module::Build isn't a saga, it's a fucking horror series
+
+    -- Module::Build
+    -- #perl, Freenode
+%
+ <Altreus>  Hmm I should have checked the licence on Inline::Lua
+     <dwu>  orochi_: licence it and people will steal it anyway :)
+  <Yaakov>  Well, you can try to steal that, but it would be like a mouse
+            stealing a battle tank.
+     <dwu>  Altreus: you mean acronym?
+ <Altreus>  Perl license
+ <Altreus>  dwu: n
+ <Altreus>  IP is not pronounced as a word so it is not an acronym.
+ <Altreus>  At least not in the original meaning of the word: which is the
+            only meaning given by a majority of dictionaries
+  <Yaakov>  Yes, it's not a true acronym, though the word now has that
+            baggage.
+ <orochi_>  Ip Ip Ip!
+ <Altreus>  ni!
+         *  orochi_ runs away
+     <dwu>  Altreus: i say ip... :)
+  <Yaakov>  IP would be an abbreviation.
+     <dwu>  also, initials? but isms are cool.
+ <rindolf>  I see Eye.Pea.
+     <dwu>  oooh yes.
+     <dwu>  and dead people?
+         *  rindolf is listening to Sesame Street - Yip Yip Martians
+ <Altreus>  dwu: Intent is involved; just because you say it as a word
+            does not mean it was meant to be said as a word ;)
+ <Altreus>  wikipedia knows about it, and has like a million sauces cited
+ <Altreus>  mostly dictionaries
+  <Yaakov>  YAPC is an acronymic moniker! BE THERE
+     <dwu>  Altreus: well absolutement :) also, yumy, i like bernaise.
+ <rindolf>  I say* Eye.Pea.
+     <dwu>  hrrrm, the oxford cream dictionary. *nomnomnom*
+     <dwu>  rindolf: awww.
+  <ne2k__>  Eye.Pea.Freely
+ <rindolf>  dwu: heh
+  <ne2k__>  no-one says "ip", everyone says "Eye Pea"
+ <Altreus>  Ip address
+     <dwu>  rindolf: can you just -say- dead people, for the heck of it?
+ <rindolf>  Yip address
+     <dwu>  ne2k__: provably false. i need an ip address, stat!
+ <Altreus>  yiff address?
+ <rindolf>  dwu: I say dead people.
+     <dwu>  <3 rindolf
+ <rindolf>  dwu: I say.
+     <dwu>  you do :)
+ <Altreus>  I say I say I say
+ <rindolf>  dwu: :-)
+  <ne2k__>  dwu: you can't stat an ip address, only a file
+
+    -- How to say IP?
+    -- #perl, Freenode
+%
+    <rindolf>  Su-Shee: it's VBA, not VB.
+    <rindolf>  Su-Shee: completely different beast.
+    <rindolf>  Su-Shee: and much saner.
+    <rindolf>  Su-Shee: I don't know VB.
+    <rindolf>  Never had the need.
+      <c0bra>  _Fauchi95_: alright
+     <fuzzix>  rindolf: And you coll yourself a programmer...
+    <rindolf>  And hopefully will never have the need.
+    <rindolf>  fuzzix: call
+     <fuzzix>  rindolf: Good coll. Dvorak's tough after spending the day
+               on qwerty :)
+    <rindolf>  fuzzix: coll again?
+    <rindolf>  Hmm... there is such a word called "coll".
+     <fuzzix>  rindolf: That one was a joke :)
+      <c0bra>  why stop now? he's on a roll
+    <rindolf>  Wonder what it means.
+    <rindolf>  fuzzix: ah.
+ <simcop2387>  c0bra: a rick roll?
+    <rindolf>  rall
+      <c0bra>  a coll roll
+    <rindolf>  roll the ball.
+    <rindolf>  rall the boll.
+    <rindolf>  And go to the Super-bowl.
+      <c0bra>  Coll\, v. t. [OF. coler, fr. L. collum neck.] To embrace.
+    <rindolf>  "Rolling is hard. Let's go to the mall."
+
+    -- You coll yourself a programmer
+    -- #perl, Freenode
+%
+ <Su-Shee>  2010 is planned more or less as a refactoring year.
+ <DrForr_>  A whole *year*? What physical plane of existence do you reside
+            on?
+ <Su-Shee>  DrForr_: there's also bugs to fix and systems to care for and
+            things like that. it's not that we're locked into the closet
+            and a year later a new, shiny product is released. ;)
+ <DrForr_>  Closet optional.
+ <Su-Shee>  I'm not a wonderwoman refactoring half a million lines of perl
+            in a week, sorry. :)
+ <rindolf>  Su-Shee: Chuck Norris refactors 10 millions lines of perl
+            before lunch.
+ <Su-Shee>  rindolf: hm. that's the reason.. I'm not as hairy as chuck
+            norris and I don't have a beard...
+ <rindolf>  Su-Shee: ah.
+ <rindolf>  Su-Shee: Chuck Norris also wrote a complete Perl 6
+            implementation.
+ <Su-Shee>  rindolf: I heard, he already wrote Perl 7.
+ <rindolf>  Su-Shee: yes.
+         *  rindolf wants to be as awesome as Chuck when he grows up.
+ <Su-Shee>  rindolf: I envy you. I'll never be as awesome without a beard.
+ <rindolf>  Su-Shee: heh.
+ <rindolf>  Su-Shee: it doesn't matter if you're rigid on the outside as
+            long as you're rigid on the inside.
+ <Su-Shee>  chuck norris doesn't make mistakes.
+ <rindolf>  Su-Shee: Chuck Norris corrects God.
+ <Su-Shee>  rindolf: I'll apply as his secretary.
+ <rindolf>  Su-Shee: as Chuck's?
+ <Su-Shee>  rindolf: yes.
+ <rindolf>  Su-Shee: OK.
+ <rindolf>  Chuck Norris doesn't code. When he sits next to a computer, it
+            just does whatever he wants.
+ <Su-Shee>  I'll tell my boss tomorrow. Chuck is who he wants.
+ <rindolf>  Su-Shee: Chuck Norris is his own boss.
+ <rindolf>  Su-Shee: if you hire him, he'll tell your boss what to do.
+ <Su-Shee>  good point.
+
+    -- Becoming as awesome as Chuck Norris is
+    -- #perl, Freenode
+%
+        <integral>  hi perly!
+ <perlygatekeeper>  hey Chris, hey integral
+ <perlygatekeeper>  dabreegster, don't know you do I but HEY anyway
+ <perlygatekeeper>  what's been up?
+     <dabreegster>  Ignore me, fine.
+                 *  dabreegster goes in a corner
+       <Chris62vw>  dabreegster is the man, man
+     <dabreegster>  Ah, that's better.
+         <rindolf>  perlygatekeeper: yo, yo, yo, dude!
+ <perlygatekeeper>  rindolf!!
+         <rindolf>  perlygatekeeper: what's up?
+ <perlygatekeeper>  hmmm
+ <perlygatekeeper>  not much
+ <perlygatekeeper>  you?
+         <rindolf>  perlygatekeeper: fine. Let me recall what I said to
+                    ezra.
+         <rindolf>  perlygatekeeper: I'm fine. Got into a few flamewars,
+                    and escaped alive to tell the tale.
+         <rindolf>  perlygatekeeper: worked a bit on my story "The Human
+                    Hacking Field Guide".
+         <rindolf>  perlygatekeeper: (which, BTW, you appear there (as
+                    your IRC nick at least)
+         <rindolf>  perlygatekeeper: and now working on the Computer
+                    Graphics section of my homepage.
+ <perlygatekeeper>  rindolf, what the hell?
+         <rindolf>  perlygatekeeper: excuse me?
+ <perlygatekeeper>  rindolf was that someone pretending to be me?
+ <perlygatekeeper>  I never said those things
+         <rindolf>  perlygatekeeper: it's a fictitious story.
+         <rindolf>  perlygatekeeper: relax.
+     <dabreegster>  perlygatekeeper: or you could be the imposter right
+                    now... or maybe just schizophrenic.
+         <rindolf>  dabreegster: MPDed not schizophrenic.
+         <rindolf>  dabreegster: schizophrenia is not
+                    Multi-Persona-Disordered.
+            <b0at>  perlygatekeeper: It's fan fiction from your fan!
+     <dabreegster>  rindolf: what's the difference?
+         <rindolf>  dabreegster: MPD is when there are several
+                    personalities living inside your brain.
+         <rindolf>  dabreegster: in schizophrenia, you have one I-ness,
+                    but hear voices, hallucinate and stuff.
+     <dabreegster>  rindolf: Ah. Why is it considered a disorder? MPD
+                    could be quite useful... One would have different
+                    perspectives on a subject.
+ <perlygatekeeper>  where's beth, she'll know it's me
+        <integral>  But how will we know it's beth?!
+     <dabreegster>  rindolf: Oh, I have MPD then, not schizophrenia. I
+                    don't hallucinate.
+     <dabreegster>  integral: WE DON'T!
+            <b0at>  I don't hallucinate, but my other personality does.
+     <dabreegster>  How do I know all of you exist? Am I just a figment of
+                    my own imagination?
+     <dabreegster>  b0at: Interesting...
+         <rindolf>  dabreegster: Julian Jaynes describes schizophrenia
+                    very well in his "The Origins of Consciousness during
+                    the Breakdown of the Bicameral Mind book".
+        <integral>  nono, you're all just figments of _lilo_'s imagination
+     <dabreegster>  rindolf: I'll check it out
+            <b0at>  he wishes
+     <dabreegster>  integral: and you?
+ <perlygatekeeper>  the voices tell me if it's really beth or not
+     <dabreegster>  perlygatekeeper: The voices tell me everything.
+     <dabreegster>  Wait, I do have the Voices. Maybe I have MPD _and_
+                    schizophrenia.
+            <b0at>  Ah, but the question is: do the Voices have voices?
+         <rindolf>  dabreegster:
+                    http://en.wikipedia.org/wiki/The_Origin_of_Consciousness_in_the_Breakdown_of_the_Bicameral_Mind
+            <b0at>  And if so, is it your own voice?
+     <dabreegster>  b0at: And do the voices of the voices have voices?
+            <b0at>  That's just going too far.
+             <dkr>  don't worry, those are angels, invest in tarot cards
+                    and you will be able to understand them
+     <dabreegster>  b0at: and if it's not, then could it be the voice
+                    of........ integral? rindolf? or.... buu!
+            <b0at>  buu has other plans for our empty skulls
+     <dabreegster>  b0at: and if they do, then what do the voices of the
+                    voices of the voices of the Voices sound like?
+        <integral>  *sob* it's the cabbages. The cabbages keep telling me
+                    to do things
+           <Botje>  really? most of the time it's the socks that tell me
+                    stuff
+     <dabreegster>  integral: The lawn gnomes tell me.
+                    They're........everywhere...*sniffle*
+        <integral>  *blubber* the socks are worse, there's moths living in
+                    them
+     <dabreegster>  The lawn gnomes tell me to stay away from Life. They
+                    force me to write poetry.
+     <dabreegster>  integral: *whispering* are the _moths_ the Voices? or
+                    the voices of the Voices? or the voices of the voices
+                    of the Voices?
+                 *  dabreegster goes back to reading
+        <integral>  *looks furtively around for moths*
+
+    -- The voices told me so.
+    -- #perl, Freenode
+%
+     <rindolf>  Su-Shee: I'm not good in detecting sarcasm over IRC.
+     <rindolf>  But naturally sometimes say sarcastic things myself.
+             *  Patterner cuts his Nerd Membership Card in small pieces
+     <Su-Shee>  rindolf: that's why god gave us the ;) smiley ;)
+     <rindolf>  Su-Shee: not God, but a Russian enterpreneur who
+                trademarked it.
+             *  rindolf wishes we were all speaking in XML.
+     <rindolf>  J/K.
+     <rindolf>  Even Perl is not good enough for human communication.
+     <Su-Shee>  rindolf: are you really still that nerdy in your age?
+     <rindolf>  Su-Shee: I guess.
+     <rindolf>  Su-Shee: nerdy or geeky?
+     <rindolf>  Su-Shee: I.e: technologically inclined or having no social
+                life?
+             *  rindolf is both though.
+     <Su-Shee>  rindolf: so let's called it nerky. ;)
+     <rindolf>  But hopefully once I get a gf, I'll be less of a Nerd.
+     <Su-Shee>  rindolf: what makes you think that?
+     <rindolf>  Su-Shee: I'll go out.
+     <rindolf>  Su-Shee: and stuff.
+     <rindolf>  Su-Shee: I also consider to start studying in Tel Aviv
+                Uni.
+     <Su-Shee>  rindolf: and why does that require a girl friend?
+     <rindolf>  English/Hebrew/etc. or something.
+     <rindolf>  Lots of girls there. :-)
+     <rindolf>  Su-Shee: going out?
+     <Su-Shee>  those are language-skills humanities-department girls. ;)
+     <Su-Shee>  rindolf: yes.
+     <rindolf>  Su-Shee: I like language geeks.
+     <rindolf>  Thing is I think my knowledge of English and Hebrew is too
+                superficial.
+     <rindolf>  And I lack the discipline to correct it on my own.
+     <Su-Shee>  rindolf: language departments like English are usually
+                exactly _not_ geek-ish departments.
+     <rindolf>  Su-Shee: you mean they are not tech-savvy?
+     <rindolf>  But you can be an English geek.
+     <Su-Shee>  rindolf: they're not even language geeks usually.
+     <rindolf>  Or a hacker of English.
+     <rindolf>  Su-Shee: really?
+     <rindolf>  How sad.
+     <Su-Shee>  rindolf: you know some people just want to have good
+                language skills and read books and communicate.
+ <peterrooney>  a good hacker will know at least three languages.
+     <rindolf>  Well, maybe it's different in Israel.
+     <rindolf>  peterrooney: human ones, right?
+ <peterrooney>  rindolf: at least one of them should be human
+     <rindolf>  I know English, Hebrew, studied Literary Arabic for 6
+                years and forgot most of it, and have some rudimentary
+                French.
+     <rindolf>  peterrooney: ok.
+     <rindolf>  peterrooney: I think ever hacker should know Perl, Python,
+                Haskell, C, Scheme/Lisp and Bash.
+     <rindolf>  And HTML/XHTML+CSS+etc.
+     <Su-Shee>  thank god I'm no hacker. ;)
+             *  rindolf hacks Su-Shee into a hacker.
+     <Su-Shee>  rindolf: no you won't. one can perfectly well do nice tech
+                stuff without degrading into someone he/she's not.
+     <rindolf>  Su-Shee: don't you like programming ? Didn't you
+                contribute to FOSS?
+     <Su-Shee>  rindolf: aaand? I can do that without declaring myself as
+                hacker, nerd, geek or whatever.
+     <rindolf>  Su-Shee: OK.
+     <rindolf>  Su-Shee: but it still makes you a hacker.
+     <Su-Shee>  rindolf: trust me, I'm very much not a hacker. really.
+                honest to god not.
+             *  rindolf gives a blue badge of honour saying "Hacker" to
+                Su-Shee
+     <rindolf>  Su-Shee: too late, you're one of us now! ;-)
+     <rindolf>  "Resistance is futile."
+
+    -- Hacking someone into a hacker
+    -- #perl, Freenode
+%
+ <FreakGuard>  icke, how to start REPL?
+       <icke>  FreakGuard: looked in the docs?
+ <FreakGuard>  icke, no.
+       <icke>  you got to load it from CPAN
+ <FreakGuard>  icke, yeah, I've installed it.
+            *  Altreus sells FreakGuard perl docs at a reasonable price
+               only $9.99 each
+       <icke>  perldoc Devel::REPL is the direct way to info then
+            *  Altreus wrings his hands and cackles
+ <FreakGuard>  icke, thanks :P
+            *  rindolf bests Altreus' bargain by 1 cent.
+    <rindolf>  Reminds me of what I learned in Game Theory.
+            *  Altreus offers free delivery
+            *  rindolf allows free download
+    <rindolf>  Of course quality > price.
+            *  rindolf offers a deluxe edition of the Perl documentation
+               for 1,000 USD plus shipping and handling.
+        <huf>  diamond-encrusted?
+    <rindolf>  See http://perldoc.perl.org/ for a preview.
+    <rindolf>  huf: natural diamonds, too.
+    <rindolf>  huf: Canadian diamonds.
+        <huf>  well, if <> is natural... :)
+    <rindolf>  huf: heh.
+    <rindolf>  huf: not this kind of diamond.
+            *  Altreus compresses if () under several million tonnes of
+               rock for a few aeons
+    <rindolf>  I also give free spaceships - <=>
+   <infrared>  heh
+    <rindolf>  Diamonds are heresy! We need PEARLs!
+    <rindolf>  /usr/bin/PEARL
+    <Altreus>  f00li5h: Seems like it!
+ <FreakGuard>  I prefer other gems :-)
+    <Altreus>  I suggested to Think Geek that they should do Perl
+               necklaces but they didn't
+    <rindolf>  FreakGuard: Ruby gems?
+ <FreakGuard>  rindolf, correct.
+    <Altreus>  The rare PHP
+    <Altreus>  Darling I got you a PHP wedding ring
+    <Altreus>  oh it broke
+    <rindolf>  Altreus: as PHP tends to.
+            *  rindolf laughts maniacally.
+    <Altreus>  you maniac!
+
+    -- Given enough suckers, all profits become shallow
+    -- #perl, Freenode
+%
+      <Enl>  apeiron: because I write client side (Provider) which sends
+             push messages to the phone and checks for new mail in perl
+  <rindolf>  Enl: a cellphone?
+  <apeiron>  No, a rotary POTS phone that's capable of receiving email,
+             rindolf.
+      <Enl>  rindolf: iphone, yep
+  <rindolf>  apeiron: :-) apeiron++
+  <rindolf>  apeiron: I want a phone like that!
+  <rindolf>  apeiron: do you sell them?
+  <apeiron>  rindolf, Yes, and I have some oceanfront property for you,
+             too.
+  <rindolf>  apeiron: would you accept some of my copious gold bars in
+             return?
+  <apeiron>  rindolf, No. I only deal in Latinum!
+  <rindolf>  apeiron: Latinum.
+  <rindolf>  apeiron: gold-pressed Latinum?
+  <apeiron>  yes.
+  <rindolf>  apeiron: I only have silver-pressed Latinum.
+      <Enl>  rindolf: get an iPhone, lol
+  <rindolf>  apeiron: would you accept LeoNerd and nanonyme as substitutes
+             ? You can sell them for mucho Latinum.
+  <apeiron>  heh
+  <rindolf>  Enl: iPhones are worthless.
+          *  rindolf conspires to steal the ApeironPhones.
+  <rindolf>  I didn't say I was honest.
+          *  apeiron jealously guards his G1
+      <Enl>  rindolf: now really
+  <rindolf>  Enl: you should get an ApeironPhone too.
+  <rindolf>  Enl: chicks love it.
+  <apeiron>  what
+      <Enl>  rindolf: pff, chicks dont matter
+  <rindolf>  I would kill for an ApeironPhone!
+  <Su-Shee>  ahaem?
+          *  rindolf kills Su-Shee and takes her ApeironPhone.
+  <apeiron>  ...
+  <apeiron>  wtf.
+ <go|dfish>  hahaha
+          *  rindolf uses his RindolfMindReading™ to see who else has an
+             ApeironPhone.
+  <apeiron>  Put down the acid, Shlomi. o.o
+      <huf>  like that'll help
+      <huf>  he's still got ~8 hrs on it
+  <Su-Shee>  rindolf: I have an apeiron-phone?
+  <Su-Shee>  where did buu go anyway?
+  <rindolf>  Su-Shee: you had one.
+  <rindolf>  Su-Shee: before you died.
+
+    -- The ApeironPhone - you know you want it
+    -- #perl, Freenode
+%
+ <rindolf>  Su-Shee: "I always wonder why the people I hang out with are
+            so pedantic. And then I remember: because they are so
+            pedantic." -- a Perl-ILer. ;-)
+    <Zaba>  rindolf, because they use warnings
+         *  rindolf adds "use Zaba;" to his code.
+    <Zaba>  oh no, I'm being used!
+         *  rindolf adds "abuse Zaba;" to his code.
+ <rindolf>  Next: "misuse Zaba;"
+    <Zaba>  ouch!
+
+    -- use Zaba
+    -- #perl, Freenode

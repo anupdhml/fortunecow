@@ -1,0 +1,210 @@
+Write clearly - don't be too clever.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Say what you mean, simply and directly.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Use library functions.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Avoid temporary variables.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Write clearly - don't sacrifice clarity for "efficiency".
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Let the machine do the dirty work.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Replace repetitive expressions by calls to a common function.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Parenthesise to avoid ambiguity.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Choose variable names that won't be confused.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Avoid unnecessary branches.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Use the good features of a language; avoid the bad ones.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Don't use conditional branches as a substitute for a logical expression.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Use the "telephone test" for readability.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Make your program read from top to bottom.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Use the fundamental control flow constructs.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Write first in an easy-to-understand pseudo-language; then translate into
+whatever language you have to use.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Follow each decision as closely as possible with its associated action.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Use data arrays to avoid repetitive control sequences.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Choose a data representation that makes the program simple.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Don't stop with your first draft.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Modularise.  Use subroutines.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Make the coupling between modules visible.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Each module should do one thing well.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Make sure every module hides something.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Let the data structure the program.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Don't patch bad code - rewrite it.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Write and test a big program in small pieces.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Use recursive procedures for recursively-defined data structures.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Test input for validity and plausibility.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Make sure input cannot violate the limits of the program.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Terminate input by end-of-file or marker, not by count.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Identify bad input; recover if possible.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Treat end of file conditions in a uniform manner.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Make input easy to prepare and output self-explanatory.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Use uniform input formats.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Make input easy to proofread.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Use free-form input when possible.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Use self-identifying input.  Allow defaults.  Echo both on output.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Localise input and output in subroutines.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Make sure all variables are initialised before use.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Don't stop at one bug.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Use debugging compilers.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Initialise constants with DATA statements or INITIAL attributes;
+initialise variables with executable code.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Watch out for off-by-one errors.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Take care to branch the right way on equality.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Avoid multiple exits from loops.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Make sure your code "does nothing" gracefully.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Test programs at their boundary values.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Program defensively.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+10.0 times 0.1 is hardly ever 1.0.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Don't compare floating point numbers just for equality.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Make it right before you make it faster.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Keep it right when you make it faster.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Make it clear before you make it faster.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Don't sacrifice clarity for small gains in "efficiency".
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Let your compiler do the simple optimisations.
+Don't strain to re-use code; reorganise instead.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Make sure special cases are truly special.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Keep it simple to make it faster.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Don't diddle code to make it faster - find a better algorithm.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Instrument your programs.  Measure before making "efficiency" changes.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Make sure comments and code agree.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Don't just echo the code with comments - make every comment count.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Don't comment bad code - rewrite it.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Use variable names that mean something.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Use statement labels that mean something.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Format a program to help the reader understand it.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Indent to show the logical structure of a program.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Document your data layouts.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%
+Don't over-comment.
+            - The Elements of Programming Style (Kernighan & Plaugher)
+%

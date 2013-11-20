@@ -1,0 +1,187 @@
+Debian Hint #1: You can report a bug in a package with the 'reportbug' command,
+which is available in the reportbug package, either from the command-line or
+with the new graphical frontend (available running 'reportbug --ui gtk2' or in
+the menu).
+%
+Debian Hint #2: You can use 'dpkg-reconfigure <package>' to change the
+answers you gave to the questions asked when you first installed a package.
+The 'configure-debian' package provides a unified front end for doing this,
+as well.
+%
+Debian Hint #3: You can use either 'apt-cache search <words>' or
+'aptitude search <words>' to search for words in the descriptions of all
+available packages.
+%
+Debian Hint #4: You can see the available and installed versions for one
+or more available packages with the command 'apt-cache policy <packages>'.
+%
+Debian Hint #5: If you need to build a custom kernel, use the 'make-kpkg'
+script found in the kernel-package package.
+%
+Debian Hint #6: There is no hint #6. Submit a hint today!
+%
+Debian Hint #7: You can use the cron-apt package to do automatic nightly
+downloads of updates for packages installed on your system.
+%
+Debian Hint #8: If you have problems with Debian that you can't solve by
+reading the manuals and documentation, try asking on the Debian Users
+mailing list (debian-user@lists.debian.org).
+%
+Debian Hint #9: If you need to know what version of Debian you're currently
+running, look in /etc/debian_version or use 'lsb_release -sc' command. If you
+want to know the codename for that version (for example, 5.0 is codenamed
+'Lenny'), check this URL:
+
+http://www.debian.org/doc/FAQ/ch-ftparchives.html#s-codenames
+%
+Debian Hint #10: There are Debian mailing lists for everything from user
+questions to debates over what to put into the Debian Policy documents.
+Check out the list at http://www.debian.org/MailingLists/ and subscribe to
+those that interest you.
+%
+Debian Hint #11: Keep up to date on what's going on - read the Debian
+Project News. Read it on the web at http://www.debian.org/News/weekly/
+%
+Debian Hint #12: The grep-dctrl package provides a number of useful scripts
+for quickly searching various package control files (such as the available
+packages file).
+%
+Debian Hint #13: If you don't like the default options used in a Debian
+package, you can download the source and build a version which uses the
+options you prefer. See http://www.debian.org/doc/FAQ/ch-pkg_basics.html
+(sections 6.13 and 6.14) for more information.
+
+However, bear in mind that most options in most packages can be configured
+at runtime, and do not require recompiling the package.
+%
+Debian Hint #14: If you would like to follow things happening to a package
+(for example, if you want to see bug reports, release notices, and other
+similar things), consider subscribing to it on the Package Tracking System.
+You can find out more about the PTS at:
+
+http://www.debian.org/doc/manuals/developers-reference/resources.html#pkg-tracking-system
+%
+Debian Hint #15: The documentation for a package can normally be found
+under /usr/share/doc/<package>. In particular, the README.Debian file often
+has useful information about Debian-specific quirks or tips.
+%
+Debian Hint #16: If you're searching for a particular file, but don't know
+which package it belongs to, try installing 'apt-file', which maintains a
+small database of this information, or search the contents of the Debian
+Packages database, which can be done at:
+
+http://www.debian.org/distrib/packages#search_contents
+%
+Debian Hint #17: Need someone to talk to about Debian? If you're comfortable
+with Internet Relay Chat (IRC), just install your favorite IRC client, and
+join #debian on irc.debian.org.
+%
+Debian Hint #18: Quality control information about a package can be found
+by going to http://packages.qa.debian.org/<package>; this page provides
+links to the Maintainer's QA page, the BTS, news items for the package, and
+information on which versions are available in which archives.
+%
+Debian Hint #19: If you're interested in building packages from source, you
+should consider installing the apt-src package.
+%
+Debian Hint #20: Want to keep track of what version of a package you have
+installed (especially useful for those running hybrid stable / testing /
+unstable systems)? Check out apt-show-versions.
+%
+Debian Hint #21: If your Debian box is behind a slow network connection,
+but you have access to a fast one as well, check out the apt-zip package.
+%
+Debian Hint #22: Wondering which Debian mirror is best for you? Check out
+the apt-spy and netselect-apt packages, which can give you information
+about how various mirror sites perform.
+%
+Debian Hint #23: If your system is using too much disk space, try the
+deborphan package; it can offer suggestions about which packages may be
+unused and removable. And, of course, don't forget to clean out the
+APT cache area (using 'apt-get clean', 'aptitude clean', or
+aptitude's Action -> Clean package cache menu item).
+%
+Debian Hint #24: If you would like to thank a maintainer for handling an
+issue, check out reportbug --kudos.
+%
+Debian Hint #25: The 'debian-reference' package contains a wide variety
+of reference documents for Debian users and developers. Most of the
+information can also be found at the following URL:
+
+http://www.debian.org/doc/manuals/reference
+%
+Debian Hint #26: If a package doesn't seem to have much documentation,
+check for a package named '<package>-doc' or similar and make sure to
+install it as well; packages with large amounts of documentation
+regularly split the docs in this manner for those who don't want to
+install them.
+%
+Debian Hint #27: Regularly verify your backups. You *are* keeping backups,
+right? Right? (This hint brought to you by the letters 'D', 'U', 'M', and
+'P', and the number 0.)
+%
+Debian Hint #28: If your machine is not on all of the time (such as a
+laptop), check out the 'anacron' package; this will make sure that regular
+tasks still happen, even if the machine isn't on at the time they would
+normally trigger.
+%
+Debian Hint #29: Keep your system clock accurate - Machines which are turned on
+most or all of the time should have the 'ntp' package installed to keep the time
+accurate in between reboots.
+%
+Debian Hint #30: Documentation can be made available at http://localhost/
+by installing the 'doc-base' and 'doc-central' packages and their
+dependencies.
+%
+Debian Hint #31: Disabling a normally-active service in a specific runlevel
+should be done by changing the S link in /etc/rc<level>.d to a K link,
+rather than removing the link entirely; if all links are removed, the
+system will assume on the next install that they need to be replaced.
+%
+Debian Hint #32: The package 'doc-debian' contains some general
+documentation about the Debian project. It is also available in Spanish
+(doc-debian-es), French (doc-debian-fr) and Ukrainian (doc-debian-uk).
+%
+Debian Hint #33: The package 'devscripts' contains some useful scripts for
+users who want to help to improve Debian, e.g. wnpp-alert, rc-alert and bts.
+%
+Debian Hint #34: If you want to track Debian sid and have a small download
+quota or a really slow connection, check out the debdelta package.
+%
+Debian Hint #35: In search for some games? Take a look at 'goplay', which
+offers a nice frontend for browsing through all kind of games.
+%
+Debian Hint #36: Need a newer package than shipped with Debian's last
+stable release, but don't want to upgrade to 'testing' or 'unstable'? Some
+packages are kept up-to-date via the stable-updates suite, some others are
+made available at backports.debian.org.
+%
+Debian Hint #37: Want to download a package without installing it? Use
+'aptitude download <pkgname>'.
+%
+Debian Hint #38: Want to know how you can use a program you have never used
+before? "man" will be your best new friend! Type "man <program-name>" in a
+shell. Or, run "man -H <program-name>" to read the manual page in a browser.
+%
+Debian Hint #39: Improve bash's tab-completion by installing the
+bash-completion package.
+%
+Debian Hint #40: If you install the command-not-found package, attempting to run
+a command you don't have installed will tell you what package to install to
+obtain that command.
+%
+Debian Hint #41: You can use 'apt-cache show <package_name>' or 'aptitude show
+<package_name>' to get more information about a debian package.
+%
+Debian Hint #42: You can use 'apt-file list <package_name>' to obtain a listing
+of the contents of debian package. This action is similar to
+'dpkg -L <package_name>' except the package does not need to be installed or
+fetched using apt-file in contrast to dpkg.
+%
+Debian Hint #43: Want to temporarily disable your iptables firewall? Use
+'iptables-save | sed "/-/d;/^#/d;s/DROP/ACCEPT/" | iptables-restore' to remove
+all rules and set the default policy to ACCEPT.
+%
+Debian Hint #44: You can follow the Identi.ca account for Debian at
+http://identi.ca/debian More information of Debian at Identica can also
+be found at: http://wiki.debian.org/Teams/Publicity/Identica

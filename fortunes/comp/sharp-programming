@@ -1,0 +1,850 @@
+       <rindolf>  ljuwaidah: so aren't there more people who use FOSS in
+                  Oman?
+     <ljuwaidah>  there are, but they're only a few
+       <rindolf>  ljuwaidah: ah.
+       <rindolf>  Oman has .om as its TLD.
+       <rindolf>  .om .nom .nom
+       <rindolf>  p.om p.om
+       <rindolf>  kabo.om
+       <rindolf>  DJB got the cr.yp.to domain.
+       <rindolf>  And there's also ali.as which is Adam Kennedy's.
+     <ljuwaidah>  looool
+     <ljuwaidah>  rand.om :P
+     <ljuwaidah>  do.om :P
+     <ljuwaidah>  ro.om
+     <ljuwaidah>  m.om
+ <Black_Phoenix>  your.m.om
+     <ljuwaidah>  hahahaha
+     <ljuwaidah>  is that supposed to be a milf site? :P
+       <rindolf>  yahoo.c.om
+     <ljuwaidah>  bro.om
+       <rindolf>  http://yourmom.com/
+       <rindolf>  Though it's down now.
+     <ljuwaidah>  don't keep your hopes up on .om domains
+     <ljuwaidah>  our ISP is a greedy money sucker
+       <rindolf>  "I'd rather be a .com than a .om"
+     <ljuwaidah>  rindolf: me too
+       <rindolf>  ljuwaidah: this was a joke.
+       <rindolf>  I have a few .org domains.
+       <rindolf>  From GoDaddy
+     <ljuwaidah>  unless you need it for a domain trick
+               *  Black_Phoenix <--- .com bastard here
+     <ljuwaidah>  rindolf: where's the joke?
+       <rindolf>  ljuwaidah: joke?
+       <rindolf>  ljuwaidah: it rhymes.
+       <rindolf>  dot-com, dot-om - get it? get it? get it?
+       <rindolf>  ;-)
+     <ljuwaidah>  no :(
+       <rindolf>  ljuwaidah: om rhymes with com.
+     <ljuwaidah>  so?
+       <rindolf>  ljuwaidah: "I'd rather be a dot-com than a dot-om"
+       <rindolf>  ljuwaidah: it's just a silly rhyme.
+ <Black_Phoenix>  I'd rather a website
+       <rindolf>  Black_Phoenix: I accidentally a web-site.
+     <ljuwaidah>  I still don't get the joke
+ <Black_Phoenix>  rindolf, I'd still rather a blog
+       <rindolf>  Black_Phoenix: rather what a blog?
+ <Black_Phoenix>  Website a blog
+       <rindolf>  ljuwaidah: never mind.
+     <ljuwaidah>  sorry, I don't know why I'm slow today
+       <rindolf>  Black_Phoenix: do you mean that you would rather *be* a
+                  web-site?
+ <Black_Phoenix>  I'd rather website a blog
+ <Black_Phoenix>  broken grammar time :D
+     <ljuwaidah>  Black_Phoenix: when did website become a verb?
+ <Black_Phoenix>  it didn't
+ <Black_Phoenix>  I'm using it as a verb to produce nonsense
+     <ljuwaidah>  I sense light!
+     <ljuwaidah>  {I see}
+       <rindolf>  ljuwaidah: http://www.google.com.om/
+     <ljuwaidah>  rindolf: I know
+       <rindolf>  If Google can do it - so can you.
+     <ljuwaidah>  I don't use it
+     <ljuwaidah>  'cause some services don't work on it
+       <rindolf>  ljuwaidah: ah.
+       <rindolf>  ljuwaidah: in any case, seems like one can register a
+                  .com.om domain.
+
+    -- The .om domain
+    -- ##programming, Freenode
+%
+ <Quetzalcoatl_>  How do I write a computer vision program in C on a
+                  microcontroller?
+           <dyf>  Quetzalcoatl_: with a text editor?
+ <Quetzalcoatl_>  Hmm.. Never thought of that. But which editor? Is
+                  Notepad good enough?
+         <mauke>  no, you need at least Wordpad
+       <rindolf>  mauke: I suggest MS Word or at least OpenOffice.org
+       <rindolf>  mauke: but in order to really be able to write well, you
+                  need a desktop publishing program like Scribus or Adobe
+                  FrameMaker.
+               *  rindolf wonders which compiler will accept PDFs as
+                  input.
+       <waiting>  rindolf: /usr/bin/pdftotext
+       <rindolf>  waiting: and pray.
+       <rindolf>  There's an estoric programming language called Piet (I
+                  think) that accepts images as input.
+
+    -- How to write stylistic code
+    -- ##programming, Freenode
+%
+ <rindolf>  Deiu: which editor are you using?
+    <Deiu>  Ugh, let me catch up with the convo first
+    <Deiu>  And yeah, I use vim too
+ <rindolf>  Deiu: ah good. If you were using Eight Megabytes And
+            Continuously Swapping , I would have to swap you with it!
+ <rindolf>  I have a column of vim tips on one of my blogs.
+ <rindolf>  I also like Escape-Meta-Alt-Control-Shift.
+ <rindolf>  There are a lot of jokes about Emacs.
+     <Zuu>  There are lots of jokes about your mom too ;)
+ <rindolf>  Zuu: eMom
+     <Zuu>  eh?
+ <rindolf>  e-Macs -> eMum
+ <rindolf>  "Your Mom is so fat, only Emacs takes more memory than her."
+     <Zuu>  nope, doesnt work
+ <rindolf>  Zuu: :-(
+     <Zuu>  Your emacs is so fat that your mom could fit in it
+ <rindolf>  Heh.
+     <Zuu>  ahhh, yes, much better
+ <rindolf>  Zuu++
+     <Zuu>  :P
+       -->  dbm has joined ##programming
+         *  rindolf stores some key/value pairs in dbm
+         *  Zuu stores some moms in dbm
+     <dbm>  lol
+ <rindolf>  Zuu: you overflowed him.
+     <Zuu>  :>
+     <dbm>  ;)
+ <rindolf>  Or her, don't know.
+ <rindolf>  them.
+     <dbm>  'him'
+ <rindolf>  OK.
+ <rindolf>  dbm: I don't recall your nick.
+     <dbm>  dbm= dont bother me
+ <rindolf>  don't be mean.
+     <dbm>  ;)
+     <Zuu>  or: do bother me
+
+    -- Your Emacs is so fat
+    -- ##programming, Freenode
+%
+                -->  xmler has joined ##programming
+            <xmler>  Hi
+            <xmler>  How can I do <a href="$variable">blah</a> in XSLT?
+          <rindolf>  xmler: you can use <xsl:attribute>
+          <rindolf>  xmler: or use ${...}
+          <rindolf>  xmler: have you read the Zvon XSLT tutorial?
+            <xmler>  rindolf: I've read various resources; perhaps it's
+                     the fault of XML::XSLT on CPAN
+          <rindolf>  xmler: use XML::LibXSLT instead.
+          <rindolf>  It's faster and better.
+              <Zuu>  <insert mean statement about XSLT>
+              <Zuu>  :)
+          <rindolf>  "XSLT is the work of Satan"
+          <rindolf>  "It's the worst thing since non-sliced bread."
+              <Zuu>  Hahaha :D
+          <rindolf>  "Mothers used to tell their children about XSLT to
+                     scare them."
+            <xmler>  Haha
+              <Zuu>  That last one is good
+            <xmler>  XSLT seems pretty cool
+              <Zuu>  xmler, no no, that's not mean
+              <Zuu>  you're doing it wrong
+              <Zuu>  :P
+            <xmler>  XSLT is too cool to be mean to :p
+              <Zuu>  Hehe
+          <rindolf>  "XSLT is the number one cause of programmers'
+                     suicides since Visual Basic 1.0"
+ <tommy_the-dragon>  lol
+              <Zuu>  :>
+              <Zuu>  I could believe in that
+          <rindolf>  "The X in XSLT stands for eXtermination."
+          <rindolf>  "XSLT makes the baby jesus cry."
+          <rindolf>  "The only things worse than XSLT are Excel and
+                     sugarless tea."
+ <tommy_the-dragon>  rofl
+                  *  Zuu kinda likes Excel
+          <rindolf>  Zuu: yes, it was a joke.
+              <Zuu>  Noooh!
+              <Zuu>  they are all true!
+          <rindolf>  Now I'm out of ideas.
+              <Zuu>  i havent even had a single idea yet..
+          <rindolf>  "XSLT is what Chuck Norris has nightmares of."
+              <Zuu>  Whoah!
+              <Zuu>  wait.. that would somehow make XSLT cooler than Chuck
+                     Norris...
+              <Zuu>  Chuck Norris dont have mightmares
+          <rindolf>  "Confucius e says: 'XSLT made me realise humanity was
+                     hopeless."
+              <Zuu>  "Even APL wont make friends with XSLT"
+              <Zuu>  yay, i maded one!
+          <rindolf>  "God considered using XSLT as the tenth plague of
+                     Egypt, but thought it was too evil."
+          <rindolf>  Zuu: :-)
+              <Zuu>  Haha :D
+              <Zuu>  that plauge one is awesome
+          <rindolf>  "In Soviet Russia, XSLT codes you. Badly!"
+          <rindolf>  "Satan condemned Hitler for a million years of
+                     writing XSLT"
+          <rindolf>  OK, back to work.
+          <rindolf>  C - not XSLt.
+              <Zuu>  :)
+          <rindolf>  "The KGB used to torture their victims by having them
+                     look at scrolling XSLT code"
+            <xmler>  rindolf: lol, love the KGB + XSLT one
+            <xmler>  rindolf: by the way, what's with the XSLT hate by the
+                     way, is it some kind of meme? :p
+                  *  Zuu gives xmler an XSLT interpreter written in XSLT
+         <Jck_true>  I wanna make ASM code from XSLT
+          <rindolf>  "My name is Inigo Montoya. You forced my father to
+                     write XSLT. Prepare to die! And be thankful I don't
+                     force you to write XSLT."
+            <xmler>  Ah for gawd's sake. Can't install XML::LibXML, it
+                     says I don't have libxml2 (I do)
+          <rindolf>  xmler: do you have the -devel package?
+          <rindolf>  xmler: what is your distro?
+          <rindolf>  OS distro I mean.
+            <xmler>  rindolf: Debian 4.0
+            <xmler>  Ooh, perhaps I don't actually
+          <rindolf>  xmler: ok, then apt-get install libxml-libxslt-perl
+                  *  Zuu have to go o/
+          <rindolf>  xmler: maybe we should discuss it on #perl?
+          <rindolf>  Zuu: bye
+          <rindolf>  Zuu: and beware of stray XSLT code.
+              <Zuu>  I will :P
+          <rindolf>  Zuu: OK.
+            <xmler>  rindolf: sure, uno memento :)
+
+    -- Chuck Norris is out! XSLT is in!
+    -- ##programming, Freenode
+%
+   <dazjorz>  rindolf!
+   <dazjorz>  areth thou here?
+   <rindolf>  Hi dazjorz
+   <dazjorz>  :)
+   <rindolf>  dazjorz: yes, I are here.
+   <dazjorz>  isn't it kind of weird to have a programming channel when
+              there are language specific channels around?
+       <Zuu>  Muhah!
+   <rindolf>  dazjorz: this is about programming in general.
+   <rindolf>  At least theoretically.
+   <rindolf>  And VB.NET questions.
+ <joeyadams>  Well, ##programming is a good place to ask C questions and
+              actually get helpful answers :)
+   <dazjorz>  rindolf: did you intentionally make it look like vb.net is
+              not programming?
+   <rindolf>  dazjorz: meet Zuu - he's into Windows and D and stuff.
+   <dazjorz>  !
+   <rindolf>  dazjorz: no.
+   <rindolf>  dazjorz: VB.NET is programming.
+   <dazjorz>  hey Zuu, I'm dazjorz, I'm into linux and c and stuff.
+   <rindolf>  But it has its own channel.
+       <Zuu>  :>
+   <dazjorz>  rindolf: I've been thinking about changing nicks
+   <rindolf>  dazjorz: ah. so did I.
+           *  Zuu is into everything sane, except the boring stuff
+   <rindolf>  dazjorz: to what?
+   <dazjorz>  rindolf: my current one is waaaay too lame, but "sjors" is
+              probably too generic
+   <rindolf>  dazjorz: I like dazjorz
+   <dazjorz>  rindolf: I don't, because when people see my name is sjors,
+              da zjorz is just too lame to bear
+   <dazjorz>  rindolf: I was thinking about sjors, or some three-letter
+              abbreviation of my name, sjg or so
+       <Zuu>  how about.... 'carrot' ?
+   <dazjorz>  I think I do prefer dazjorz over carrot
+       <Zuu>  no worries, i promise not to stuff you up rindolf's tomato
+              nose
+       <Zuu>  hum :<
+   <dazjorz>  Zuu: when I first read your nick on Shlomi's site five
+              minutes ago, I asked him whether you were a mix between
+              Zorix and Buu
+   <dazjorz>  do you know the two?
+   <rindolf>  Zoffix and buu.
+       <Zuu>  nope
+   <dazjorz>  uh zoffix yeah
+   <dazjorz>  Zuu: okay, well, you don't know them, but believe me, I'm
+              glad you're not a mix of the two, that would be horrible :P
+       <Zuu>  im a mix of much worse personalities im sure
+       <Zuu>  most of them just happen to cancel each other out
+
+    -- Introudcing dazjorz to Zuu
+    -- ##programming, Freenode
+%
+          <rindolf>  dazjorz: I considered switching my default nick to
+                     "shlomif", because that's how most people know me.
+          <dazjorz>  rindolf: yeah, it's your alternative nick now right?
+          <rindolf>  dazjorz: but then XChat2 reverted to the old nick and
+                     I was too lazy.
+           <unreal>  You seem to have many, well, stupid friends, rindolf
+                     :P
+          <rindolf>  dazjorz: yes, I have it registered.
+          <rindolf>  unreal: stupid?
+              <Zuu>  rindolf, noo! what to do about the tomato then? fish
+                     dont have big tomato noses!
+          <rindolf>  Zuu: fish?
+          <rindolf>  Zuu: I'll give you a tomoato.
+              <Zuu>  good question
+          <rindolf>  I'll give you the tomato back.
+              <Zuu>  where do i get fish from
+              <Zuu>  no no, keep it :D
+          <rindolf>  Zuu: my last name is Fish.
+                  *  tommy_the-dragon slaps zuu with a fish
+ <tommy_the-dragon>  there ya go
+          <dazjorz>  rindolf: I just registered 'sjors'
+                  *  rindolf gives a fish to Zuu
+          <dazjorz>  rindolf: as a nick.
+              <Zuu>  rindolf, thats just absurd, a reindeer with 'fish' as
+                     surname...
+              <Zuu>  your parents must have hated you
+          <rindolf>  Open source: "everyone contributes a fish, and in
+                     exchange everyone gets their own ocean."
+          <rindolf>  dazjorz: ah, cool.
+              <Zuu>  tommy_the-dragon, does dragons eat other animals,
+                     like fish?
+           <unreal>  Ocean == Big Momma's Bath?
+          <rindolf>  Zuu: I'm not a reindeer - I just play one on T.V.
+ <tommy_the-dragon>  not fish...
+ <tommy_the-dragon>  just reindeers
+              <Zuu>  tommy_the-dragon, what about fake TV reindeers ?
+              <Zuu>  Nice :D
+          <rindolf>  unreal: no, the whole enchilada.
+          <rindolf>  tommy_the-dragon: LOL.
+ <tommy_the-dragon>  and enchiladas
+          <dazjorz>  rindolf: I know someone whose nick is Stonehead, he
+                     made his three-letter acronym stn, but usually it's
+                     letters from the first name
+          <dazjorz>  uh
+          <dazjorz>  the full name
+          <dazjorz>  yours could be shf for example, and everybody would
+                     know "hey, that's shlomi"
+          <dazjorz>  but I'm at most sg, so I need to borrow another
+                     letter somewhere, or make it daz or just sjors
+                  *  dazjorz thinks
+ <tommy_the-dragon>  my cat eats flies...
+          <rindolf>  dazjorz: I hate these three letter acronyms.
+              <Zuu>  shlomi really sounds like some dish made of reindeer
+ <tommy_the-dragon>  but hes lucky because i dont eat cats
+          <rindolf>  Zuu: heh.
+           <unreal>  heh
+          <rindolf>  tommy_the-dragon: I didn't know dragons had cats.
+          <dazjorz>  what's the name of the red-nosed reindeer again?
+              <Zuu>  it sounds edible at least
+          <dazjorz>  oh rudolf :)
+          <rindolf>  dazjorz: Randolph.
+          <dazjorz>  oh
+           <unreal>  I used to have a friend whos nick was "crap"
+          <rindolf>  unreal: wow.
+          <dazjorz>  <someguy> crap, someone stole my bicycle
+          <dazjorz>  <crap> ok?
+          <rindolf>  dazjorz: heh.
+          <dazjorz>  rindolf: why don't you like the three-letter
+                     acronyms?
+          <rindolf>  dazjorz: often too confusing.
+          <rindolf>  dazjorz: and two easy to mistype.
+          <rindolf>  dazjorz: and not too memorable.
+           <unreal>  LIS.
+          <dazjorz>  three easy to mistype, I think
+          <rindolf>  And often hard to pronounce.
+          <dazjorz>  maybe I'll just go with sjors
+          <rindolf>  too easy. Freudian.
+          <rindolf>  dazjorz: yes, I think that's a good idea.
+           <unreal>  (Lies, I say!)
+          <dazjorz>  hehe, rindolf++ # freudian
+              <Zuu>  or you could pick something girly and hope people
+                     will treat you nicer :)
+          <rindolf>  dazjorz: have you played with the farnsworth bot yet?
+          <rindolf>  Zuu: RinGirl
+          <rindolf>  Though nicks with "Girl " in them tend to draw too
+                     much attention.
+              <Zuu>  nah, it cant contain 'girl' that just seems fake
+          <dazjorz>  rindolf: I have
+          <dazjorz>  rindolf: remind me to fix knotify, khtml, and quassel
+                     :(
+          <rindolf>  dazjorz: nice.
+          <rindolf>  dazjorz: using MemoServ?
+          <dazjorz>  rindolf: the bugs annoy me, a lot, but I never get
+                     around to actually trying to fix them
+          <rindolf>  Zuu: maybe I should call myself "shlomi". Americans
+                     will think I'm a girl.
+              <Zuu>  yeah, it kinda have a girlish sound to it
+          <dazjorz>  rindolf: call yourself shloma, dutch people will
+                     think you're over sixty and female
+          <rindolf>  dazjorz: heh.
+          <dazjorz>  let me rephase that
+          <dazjorz>  dutch people will think you're female... and over
+                     sixty
+          <dazjorz>  (oma = grandma)
+          <rindolf>  dazjorz: ah.
+           <unreal>  kloot.
+          <rindolf>  In Hebrew nouns that end with "ah" tend to be
+                     feminine.
+          <dazjorz>  shlomah?
+          <rindolf>  Seriously now, if I change my nick it will be to
+                     shlomif.
+          <dazjorz>  let's change our nicks at the same time
+          <rindolf>  Well, in Shlomi's case it would be Shlomith.
+          <dazjorz>  I will be sjors, you will be shlomif
+          <rindolf>  dazjorz: OK.
+                  *  rindolf is now known as shlomif
+          <dazjorz>  shit, now I have to
+              <Zuu>  what does shlimif even mean ?
+                  *  dazjorz is now known as sjors
+            <sjors>  Zuu: shlomi = his first name, f = the first letter of
+                     his last name
+          <shlomif>  sjors: hi.
+          <shlomif>  Zuu: shlomi fish.
+            <sjors>  hi shlomif
+          <shlomif>  Hi sjors
+ <tommy_the-dragon>  where does rindolf come into it?
+          <shlomif>  sjors: my nick is longer than yours.
+              <Zuu>  oh lol, and i just said his name sound girly :P
+                  *  Zuu pat pats shlomif ^^
+          <shlomif>  tommy_the-dragon: Rindolf was a dwarven warrior I
+                     played in AD&D.
+ <tommy_the-dragon>  ahh ok
+                  *  shlomif gives Zuu his tomato back.
+              <Zuu>  :<
+          <shlomif>  Since I'm no longer a reindeer.
+            <sjors>  shlomif: that's just to compensate against something
+                     you have that's way shorter than mine
+          <shlomif>  sjors: LOL.
+          <shlomif>  sjors++
+              <Zuu>  Erhmm.. shlomif! how come there's this big hole in
+                     it?
+ <tommy_the-dragon>  sorry...
+ <tommy_the-dragon>  my bad
+              <Zuu>  Hehe
+                  *  shlomif doesn't like raw tomatoes.
+          <shlomif>  But I eat them with pasta, etc.
+          <shlomif>  Or as meat sauce.
+              <Zuu>  or in sandwiches
+          <shlomif>  sjors: anyway, welcome to ##programming
+              <Zuu>  or on reindeer nose
+          <shlomif>  sjors: I'll probably revert to "rindolf" after next
+                     disconnect.
+          <shlomif>  Zuu: after you cook the entire reindeer.
+                  *  shlomif is a reindeer cannibal.
+          <shlomif>  Well, rindolf is.
+              <Zuu>  yes, but he ran away
+          <shlomif>  I also like dried and olive oiled tomatoes.
+            <sjors>  shlomif: I just changed my clients' settings to
+                     reconnect as sjors, too
+          <shlomif>  Well, I think I'll go to sleep.
+          <shlomif>  sjors: ah.
+            <sjors>  shlomif: it'll probably take a while to "adapt" to
+                     sjors instead of dazjorz
+          <shlomif>  sjors: well, enjoy your new nick.
+            <sjors>  and I still have dazjorz.com, and not sjors.anything
+                  *  Zuu tugs shlomif in
+            <sjors>  thanks ;)
+          <shlomif>  Zuu: thanks.
+                  *  Zuu quicly squeeses a fresh tomato onto shlomif's
+                     nose
+            <sjors>  shlomif: sjors.biz and sjors.mobi at most
+                  *  shlomif doesn't have rindolf.{com,org,net} etc.
+          <shlomif>  sjors: maybe sjors.in
+          <shlomif>  I got a shlom.in
+            <sjors>  sjors.indahou.se
+          <shlomif>  sjors: heh.
+            <sjors>  sjors.ac, sjors.ag, sjors.am, sjors.at
+            <sjors>  hehe sjors.me
+            <sjors>  sjors.pl, too bad i don't really do perl anymore
+          <shlomif>  sjors: there's also .sh
+            <sjors>  sjors.sh, too bad I don't really do shell script a
+                     lot
+          <shlomif>  Or .im
+            <sjors>  sjors.tv, too bad I don't really watch..
+ <tommy_the-dragon>  do you own a mobile?
+          <shlomif>  .tv are pretty costly.
+            <sjors>  meh I don't like sjors. anyway, so I'll just keep
+                     dazjorz for everything
+ <tommy_the-dragon>  yeah whats with that (the price of .tv)?
+          <shlomif>  tommy_the-dragon: it's the foundation of the economy
+                     of Tuvaly.
+
+    -- Reindeers, Tomatoes and Normalising Nicks
+    -- ##programming, Freenode
+%
+               *  rindolf tries to think what can cause the KDE 4 SNAFU on
+                  his user.
+       <rindolf>  And hopefully to avoid bissecting the KDE 4 config tree.
+           <Zuu>  snafu... that wounds like a delicious cake :D
+           <Zuu>  *sounds
+       <rindolf>  Zuu: Situation Normal - All F****ed up.
+           <Zuu>  :/
+               *  Zuu gives the snafu cake to Dmage :D
+           <Zuu>  Dmage, just eat the cake already
+         <Dmage>  Zuu, are you hate my english? ;)
+           <Zuu>  i hate your non-english
+ <Black_Phoenix>  I english your hate
+         <Dmage>  xD
+           <Zuu>  Dmage, but i dont hate you! :D
+ <Black_Phoenix>  and now I can do that
+         <Dmage>  Zuu, learn russian then! :)
+           <Zuu>  Hehe
+           <Zuu>  Dmage, i think you'd hate my russion far more than i
+                  would ever hate your english
+       <rindolf>  Spasiva.
+         <Dmage>  xD
+         <Dmage>  learn 'Eto huinya!'
+               *  Zuu steals the snafu cake back from Dmage and gives it
+                  to rindolf instead
+         <Dmage>  and apply everywhere
+               *  rindolf eats the SNAFU cake
+           <Zuu>  :D
+               *  rindolf eats Zuu's Danish too.
+           <Zuu>  Noooh!
+               *  rindolf loves Zuu's Danish.
+       <rindolf>  Yum yum.
+           <Zuu>  tis mine!
+           <Zuu>  My daaaanish :'(
+       <rindolf>  My precioussssssssss!
+           <Zuu>  tis gone :<
+
+    -- SNAFU Cake
+    -- ##programming, Freenode
+%
+ <rindolf>  What should I do now?
+ <rindolf>  I'll work on Text-Qantor.
+ <rindolf>  It's so great not to have a job.
+     <Zuu>  yeah, if someone else pays for the food it sure is :D
+     <Zuu>  also, i dont really understand much of what you just told me
+            :P
+         *  Zuu puts a stick into the Text-Qantor
+ <rindolf>  Zuu: Qantor == Qantor ain't no TeX/Troff oh really.
+ <rindolf>  It's a typesetting system I'm working on.
+         *  Zuu hates the name
+     <Zuu>  it makes me kinda mad actually :/
+ <rindolf>  Zuu: :-)
+ <rindolf>  Zuu: maybe it will grow on you.
+ <rindolf>  Zuu: some people I know named a browser suckass.
+     <Zuu>  :(
+ <rindolf>  I refused to work on it.
+     <Zuu>  see that's a name!
+ <rindolf>  Zuu: heh.
+     <Zuu>  i didnt mean that btw :)
+     <Zuu>  suckass is kinda... unkind
+ <rindolf>  OK, now I should write an
+            http://www.shlomifish.org/humour/bits/facts/XSLT/
+            transformation.
+ <rindolf>  I'll start from something I already have.
+     <Zuu>  But the "X ain't no <something related>" is just a lame naming
+            convention imho
+     <Zuu>  yeah, work on some XSLT facts :D
+ <rindolf>  Zuu: just call it Qantor then.
+ <rindolf>  Without the mnemonics.
+     <Zuu>  but anyone interrested will learn that it's an abbreviation
+     <Zuu>  just by the fact that it's recursive makes me want to kill
+            myself a little bit more :P
+ <rindolf>  Zuu: do me a break and kill yourself.
+     <Zuu>  :>
+ <rindolf>  Less Zuus - more grass for evil reindeers like me to feed on.
+
+    -- What is Qantor?
+    -- ##programming, Freenode
+%
+   <rindolf>  Pythack now was able to get the fc-solve test suite up and
+              running.
+       <Zuu>  eh?!
+           *  Zuu solves rindolf
+   <rindolf>  Zuu: http://fc-solve.berlios.de/
+   <rindolf>  Zuu: I am not solvable.
+   <rindolf>  I am Turing hard.
+       <Zuu>  :S
+           *  Zuu never heard of anything called 'turing hard'
+ <joeyadams>  lol. Zuu's probabilistic, so maybe he can solve you.
+       <Zuu>  but i guess i have now
+ <joeyadams>  Formal definition of Turing hard: blah blah blah hard blah
+              blah Turing blah.
+       <Zuu>  Hahahaha :D
+ <joeyadams>  Wikipedia: Given a set X in P(N), a set A in N is called
+              Turing hard for X if X <=_T A for all X in X. If
+              additionally A is in X, then A is called Turing complete for
+              X.
+ <joeyadams>  Does that clarify?
+ <joeyadams>  (see http://en.wikipedia.org/wiki/Turing_reduction for the
+              actual math symbols)
+           *  joeyadams assumes you get the point
+       <Zuu>  yeah, i think i'll have to put significant time into that,
+              for me to comprehend it :)
+       <Zuu>  but maybe i will, some day :P
+ <joeyadams>  My point is that people like to use mumbo jumbo to describe
+              more concise mumbo jumbo.
+ <joeyadams>  E.g. A problem is NP-hard if it is at least as hard as all
+              the problems in NP.
+       <Zuu>  i undersstand enough of it, to be fairly confident that
+              rindolf being turing hard, will not say much about his
+              ability to be solved
+ <joeyadams>  I'm guessing Turing-hard means you can't solve a problem
+              with a Turing machine (e.g. the halting problem)
+ <joeyadams>  (substitute Turing machine with "your computer" :) )
+       <Zuu>  no, turing hard has something to do with expressiveness
+ <joeyadams>  okay, Zuu > joeyadams, so I can't help you :)
+           *  Zuu tickles joeyadams ^^
+ <joeyadams>  A delicious apple is any fruit ∈ apple that is at least as
+              tasty as any other fruit ∈ apple.
+ <joeyadams>  In other words, apples are in the set of recursively
+              nommable fruits.
+   <rindolf>  joeyadams: what's up?
+ <joeyadams>  I'm babbling.
+   <rindolf>  joeyadams: Apple is one of my least favourite fruits.
+           *  Zuu watches a number of apples that recursively NOM's
+              eathother
+   <rindolf>  It tends to be too commonplace.
+   <rindolf>  Or simpleton.
+ <joeyadams>  whoops, my logic is incorrect
+ <joeyadams>  Only delicious apples are ∈ the nommable fruits.
+ <joeyadams>  (recursively is just a word you throw in to sound smart)
+           *  Zuu NOMs joeyadams :>
+   <rindolf>  joeyadams: a friend of one of my sisters said that Apple is
+              his favourite fruit.
+   <rindolf>  Ta-zuu!
+           *  joeyadams has quit (Read error: 104 (Connection nommed by
+              peer))
+       <Zuu>  yeah, unfortunately a lot of people throw with a lot of
+              words to sound smart :/
+       <Zuu>  my favourite fruit is a recursive banana!
+ <joeyadams>  although it certainly helps to use complex terminology to
+              solve complex problems. As Aristophanes said, "High thoughts
+              must have high language."
+       <Zuu>  .. along with immutable polymorphic pears
+ <joeyadams>  Zuu> I guess you have to peel it indefinitely?
+ <joeyadams>  lol
+       <Zuu>  Hahah, yeah :P
+ <joeyadams>  I tend to eat bananas in deterministic polynomial time.
+       <Zuu>  i eat them in linear time, but uses exponential space
+ <joeyadams>  lol
+   <rindolf>  Heh.
+ <joeyadams>  eww
+
+    -- Turing Hard
+    -- ##programming, Freenode
+%
+         -->  ecere has joined ##programming
+ <ljuwaidah>  yo ecere!!
+       <Zuu>  yay, life :)
+           *  Zuu tickles ljuwaidah
+           *  ljuwaidah punches zuu in the face
+           *  Zuu starts crying :'(
+   <rindolf>  Fight!
+   <rindolf>  Fight! Fight!
+           *  Zuu runs home to mommy
+   <rindolf>  Let's get ready to rumble!!!
+           *  ljuwaidah punches rindolf in the face
+ <ljuwaidah>  for encouraging the fight, that is
+       <Zuu>  hehe
+           *  rindolf uses his Evil Antlers to summon a squadron of Chuck
+              Norrises.
+       <Zuu>  oh my!
+           *  rindolf unleashes the Chuck Norrises upon ljuwaidah
+           *  ljuwaidah uses his anti-chuck-norrise spell
+       <Zuu>  those anterls must be the most evil thing in the entire
+              universe
+       <Zuu>  *antlers
+   <rindolf>  ljuwaidah: your spell only works on one chuck norris at a
+              day.
+   <rindolf>  And I have 119 more.
+   <rindolf>  Finish him!
+       <Zuu>  i wonder what will happen if one Chuck Norris accidently
+              punches another
+ <ljuwaidah>  rindolf: then lemme use my duplication spell to make more of
+              myself so THEY can use the spell
+   <rindolf>  ljuwaidah: heh.
+   <rindolf>  ljuwaidah++
+ <ljuwaidah>  thanks :D
+   <rindolf>  ljuwaidah: two can play this game.
+           *  rindolf runs his recursive copying spell making lots of Evil
+              rindolf reindeers exponentially.
+   <rindolf>  Like Bacteria.
+ <ljuwaidah>  darn! i didn't see that coming
+ <ljuwaidah>  but you also forgot that if _I_ can duplicate myself then so
+              can my duplicates B-)
+
+    -- The Ultimate ##programming Showdown
+    -- ##programming, Freenode
+%
+                -->  ispy_ has joined ##programming
+            <ispy_>  hi gang.
+            <ispy_>  I'm a n00b programmer and think I should learn A and
+                     B before C, right?
+          <std_orb>  ispy_: General understanding should come before that.
+            <ispy_>  std_orb: I have no idea what I'm doing...
+          <std_orb>  ispy_: I can see that
+                  *  ispy_ kicks the dirt...
+ <tommy_the-dragon>  ive been meaning to get into it
+            <ispy_>  Is C like JavaScript?
+            <ispy_>  Same thing right?
+ <tommy_the-dragon>  ispy_: lol
+          <rindolf>  ispy_: Perl is more like C than JS is.
+            <ispy_>  rindolf: Never heard of Perl... I should google that.
+          <rindolf>  ispy_: use Bing search instead.
+          <rindolf>  Or Altavista.
+         <Terminus>  rindolf: i see.
+            <ispy_>  rindolf, std_orb, tommy_the-dragon ... thanks for the
+                     pointers :)
+          <rindolf>  ispy_: you should learn Intercal, it's the most
+                     expressive language possible.
+            <ispy_>  rindolf: Sounds exciting!
+         <Terminus>  intercal... lol!
+            <ispy_>  haha
+            <ispy_>  ok ok ok... I can't continue this... I'm practically
+                     laughing my ass off at my desk.
+          <rindolf>  :-)
+            <ispy_>  hehe
+
+    -- Emulating a Clueless Newbie
+    -- ##programming, Freenode
+%
+     <Zuu>  Hai all
+ <rindolf>  Zuu: hai hai.
+ <rindolf>  Zuu: what's up , kit?
+ <rindolf>  Zuu: or what are you , I forgot?
+     <Zuu>  Hai rindolf :D
+ <rindolf>  I am a reindeer.
+ <rindolf>  But also a Llama.
+ <rindolf>  And a cat.
+     <Zuu>  I'm a Zuu
+ <rindolf>  And a fish naturally.
+ <rindolf>  Zuu: ah , OK.
+     <Zuu>  :D
+         *  rindolf creates a Zoo of Zuus
+     <Zuu>  ^^
+ <rindolf>  Are you the master Zuu?
+ <rindolf>  Like Q is the master of the Q's in Star Trek?
+     <Zuu>  i think im the only Zuu
+ <rindolf>  Oh, one of a kind.
+     <Zuu>  Which is kinda sad really :(
+     <Zuu>  Who am i supposed to mate with?
+ <rindolf>  Reminds me of
+            http://www.shlomifish.org/humour/Blue-Rabbit-Log/ideas.xhtml
+ <rindolf>  Though I need to add that part.
+ <rindolf>  Let me do it now.
+     <Zuu>  whatever webserver you use, it doesnt provide the right
+            mimetype... At least IE 8 dont attempt to render the document
+ <rindolf>  Zuu: you cannot using IE 8
+ <rindolf>  Zuu: you need Firefox.
+ <rindolf>  Zuu: it's application/xml+xhtml
+ <rindolf>  Or Opera.
+     <Zuu>  well, it indeed is the right mimetype... stupid IE
+     <Zuu>  well, my FF crashed, so i just use IE when that happens
+ <rindolf>  Zuu: ah.
+ <rindolf>  FF crashed?
+ <rindolf>  How strange.
+ <rindolf>  Maybe you have a bad plugin.
+     <Zuu>  It does that around 6 times a day
+ <rindolf>  Not an extension - a plugin.
+ <rindolf>  Ah, really.
+ <rindolf>  Something is wrong in the Zuuniverse.
+ <rindolf>  Or Zuumputer.
+     <Zuu>  nah, i suspect one of the tabs are just doing some strange
+            stuff
+     <Zuu>  memory leaking javascript ro something like that
+     <Zuu>  it is kinda starting to annoy me
+     <Zuu>  but with 90 - 120 tabs, it would take quite a while to find
+            out what tab it is
+     <Zuu>  you might consider starting your articles, or whatever this
+            is, with an introduction telling what it's about
+ <rindolf>  Zuu:
+            http://www.shlomifish.org/humour/Blue-Rabbit-Log/ideas.xhtml#the-angry-demon
+ <rindolf>  Zuu: it's not an article - these are random ideas for a
+            screenplay.
+ <rindolf>  Zuu: but I'll write an intro.
+     <Zuu>  start the page with "Here are some of my random ideas for a
+            screen play im writing:"
+     <Zuu>  at LEAST!
+     <Zuu>  you cant just jump right into something without giving _any_
+            indication ow what the reader can expect
+     <Zuu>  it simply doesnt make any sense as it is now
+     <Zuu>  you could just as well have posted a log of ljuwidah talking
+            :P
+ <rindolf>  Zuu: thanks.
+     <Zuu>  :)
+ <rindolf>  Zuu:
+            http://www.shlomifish.org/humour/Blue-Rabbit-Log/ideas.xhtml#intro
+ <rindolf>  Interactive Web!
+     <Zuu>  i think you have forgottoen to define the #intro anchor
+ <rindolf>  Zuu: reload.
+ <rindolf>  Zuu: it's there.
+     <Zuu>  hah, caches... :P
+     <Zuu>  :D
+ <rindolf>  Pesky things.
+ <rindolf>  Evil reindeers don't like caches.
+ <rindolf>  Neither do cats.
+ <rindolf>  I'm an evil reindeer but a good cat.
+     <Zuu>  Hehe
+ <rindolf>  Don't know how it works.
+ <rindolf>  I guess good and evil are relative.
+ <rindolf>  Or actually I wore a helmet of alignment change.
+
+    -- What kind of animal is a Zuu?
+    -- ##programming, Freenode
+%
+      <Zuu>  Hi rindolf :)
+  <rindolf>  Hi Zuu
+  <rindolf>  Zuu: I've been thinking that maybe you can find some
+             corresponding Zuus of the appropriate sex in a different
+             dimension.
+      <Zuu>  hmmm... interresting!
+  <rindolf>  Zuu: are you a heterosexual Zuu or a homosexual one?
+      <Zuu>  Im not sure what sex I am.
+  <rindolf>  Zuu: ah.
+      <Zuu>  :P
+  <rindolf>  Zuu: you can look.
+  <rindolf>  Zuu: in the mirror or something.
+  <rindolf>  Zuu: don't you have obligatory genders in Danish/
+  <rindolf>  ?
+  <rindolf>  Like in German, French, etc.
+  <rindolf>  Or Hebrew and Arabic.
+      <Zuu>  obligatory genders?
+      <Zuu>  you mean, the genders in linguistics?
+          *  Zuu never understood those
+      <Zuu>  but Danish have two i believe, and if i remember correctly
+             there is female and 'none'
+  <rindolf>  Zuu: yes, genders in linguistics.
+      <Zuu>  i dont remember what which is which though :P
+  <rindolf>  Like in Hebrew "Haben Halakh lagan" - the boy went to the
+             garden. "Habath Halkha lagan" - "The girl went to the garden"
+ <c_sphere>  That almost sounds like allah akbar
+      <Zuu>  rindolf, no we dont distinct between the genders of the
+             subject in the danish language
+      <Zuu>  our nouns have genders though
+ <c_sphere>  zuu-nina?
+      <Zuu>  like 'house' is one gender and 'car' is another
+  <rindolf>  Zuu: of course the question is - what language do Zuus speak
+             natively?
+ <c_sphere>  rindolf: Of course, Zuu speaks Zuu!
+  <rindolf>  Zuuish?
+ <c_sphere>  The Zulu population also does not speak Zuluish, just Zulu.
+      <Zuu>  so if you want to say 'the house' its 'huse_t_' and if you
+             want to say 'the car' its 'bile_n_'
+  <rindolf>  c_sphere: Arnavoth (sounds like an Aztec god) is "Hares" (the
+             Rabbit-like mammal) in Hebrew.
+  <rindolf>  Zuu: can you understand Swedish?
+ <c_sphere>  Aemeth
+      <Zuu>  rindolf, some :)
+  <rindolf>  Zuu: ah.
+      <Zuu>  swedish branched from danish afaik
+      <Zuu>  same with norwegian
+      <Zuu>  yes, Zuu's speak Zuuish nativley :P
+          *  rindolf is listening to Hans Zimmer - Jack Sparrow
+  <rindolf>  Zuu: ah.
+      <Zuu>  Zuuish have few words, all of which is based on words about
+             cake from othre languages :P
+      <Zuu>  c_sphere, are you by any chance related to s_cube ?
+  <rindolf>  Zuu: ah, what do you use the Hebrew word "עוגיה" (= `ugiyah,
+             cookie) for?
+  <rindolf>  "Chocolate chip pie crust marmalade marzipan cookie yum yum!"
+      <Zuu>  i use it for cookies baked from a hebrew recipe :P
+  <rindolf>  What does it mean in Zuuish?
+      <Zuu>  it's hard to really say something in Zuuish... al you can
+             really do is say something equivalent to "COOKIES!!"
+      <Zuu>  or "YAY CAKE!"
+      <Zuu>  basically, you can only express excitement over different
+             kinds of cakes :P
+  <rindolf>  Zuu: do Zuus eat anything except cakes or cookies?
+      <Zuu>  There was this one time...
+      <Zuu>  wait.. no. That was someone else.
+
+    -- What can a Zuu do?
+    -- ##programming, Freenode
