@@ -1,0 +1,15 @@
+##
+## artist: jgs (Joan G. Stark)
+## http://geocities.ucan.us/soho/7373/
+##
+$the_cow = <<EOC;
+  $thoughts
+   $thoughts
+       _    _
+      / \\__/ \\_____
+     /  /  \\  \\    `\\
+     )  \\''/  (     |\\
+     `\\__)/__/'_\\  /`
+	//_|_|~|_|_|
+	^""\'"\' ""\'"\'
+EOC

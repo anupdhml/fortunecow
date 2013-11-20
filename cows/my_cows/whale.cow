@@ -1,0 +1,16 @@
+##
+## ascii art stolen off the interwebz
+##
+$the_cow = <<EOC;
+       $thoughts         __   __
+        $thoughts      __ \\ / __
+         $thoughts    /  \\ | /  \\
+          $thoughts       \\|/
+            _,.---v---._
+   /\\__/\\  /            \\
+   \\_  _/ /              \\ 
+     \\ \\_|           @ __|
+  hjw \\                \\_
+  `97  \\     ,__/       /
+     ~~~`~~~~~~~~~~~~~~/~~~~
+EOC

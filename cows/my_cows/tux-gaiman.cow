@@ -1,0 +1,33 @@
+##
+## TuX
+## (c) pborys@p-soft.silesia.linux.org.pl 
+##
+## gaiman text added later
+##
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts    May your day be filled with magic and dreams and good madness.                     
+        .--.     I hope you read some fine books and 
+       |o_o |    kiss someone who thinks you're wonderful
+       |:_/ |    and don't forget to make some art -- 
+      //   \\ \\   write or draw or buld or sing or live as only you can.
+     (|     | )  And I hope, somewhere in the day,
+    /'\\_   _/`\\  you surprise yourself.                                                            
+    \\___)=(___/                      --Adapted from a Neil Gaiman Wish.                      
+
+EOC
+##
+## maybe use with a function like this...
+#default_message() {
+    #distro=$(lsb_release -sd)
+    #[ -z "$distro" ] && distro=Linux
+    #user=$USER
+    #welcome_text="Welcome to $distro, $user. Have a nice day!"
+
+    #default_cow=tux
+    #my_cow=~/data/cows/my_cows/tux-gaiman.cow
+    #[ -e "$my_cow" ] && default_cow=$my_cow 
+
+    #echo $welcome_text | cowsay -n -f $default_cow
+#} 
+#
