@@ -18,7 +18,7 @@ By default, fortunes are picked up from the default location */usr/share/games/f
 If you want to use the fortune collection here with the program, you may add this to your *.bashrc*.
 
     FORTUNE_BASE_DIR=/path/to/fortune/folders/
-    cd $FORTUNE_BASE_DIR && ~/bin/fortunecow -e $(ls -d */) # -e above treats all fortune files as equal.
+    ~/bin/fortunecow -e $FORTUNE_BASE_DIR/*/ # -e treats all fortune files as equal.
 
 ## Setting cowfiles
 
