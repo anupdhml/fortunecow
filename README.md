@@ -1,5 +1,3 @@
-fortunecow
-==========
 fortunecow 
 ==========
 
