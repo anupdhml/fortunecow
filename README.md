@@ -6,7 +6,7 @@ fortunecow
 A (simple) bash script that combines fortune and cowsay, with some ocd tendencies
 Mostly useful for printing (funny) messages at terminal startup
 
-* Intended use: call from *~/.bashrc* (runs it at terminal startup) 
+* Intended use: Place the script in your $PATH, and call it from *~/.bashrc* (runs it at terminal startup) 
 * Dependencies: *cowsay*, *fortune*
 * Available options: *--disable-ocd*, *--default-message*, all args from *fortune* program (do *man fortune*)
 

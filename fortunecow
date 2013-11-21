@@ -5,7 +5,8 @@
 # Mostly useful for printing (funny) messages at terminal startup
 # By <anupdhml@gmail.com>
 #
-# Intended use: call from ~/.bashrc (runs it at terminal startup) 
+# Intended use: Place the script in your $PATH,
+# and call it from ~/.bashrc (runs it at terminal startup) 
 # Dependencies: cowsay, fortune
 # Available options: --disable-ocd, --default-message, 
 # and all args from fortune program (do man fortune)
